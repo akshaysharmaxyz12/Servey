@@ -11,6 +11,7 @@ app.config['MYSQL_PASSWORD'] = DATABASE_PASSWORD
 app.config['MYSQL_DB'] = DATABASE_NAME
 app.secret_key = 'your_secret_key'  # Change this to a secure secret key
 
+
 mysql = MySQL(app)
 
 @app.route('/')
