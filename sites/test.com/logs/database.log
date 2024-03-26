@@ -1,0 +1,8 @@
+2024-03-14 14:47:16,040 WARNING database DDL Query made to DB:
+DROP USER IF EXISTS '_f30f5044ae83edeb'@'localhost'
+2024-03-14 14:47:16,048 WARNING database DDL Query made to DB:
+DROP DATABASE IF EXISTS `_f30f5044ae83edeb`
+2024-03-14 14:47:16,088 WARNING database DDL Query made to DB:
+CREATE USER '_f30f5044ae83edeb'@'localhost' IDENTIFIED BY 'kGsfy2EecbFLlKFP'
+2024-03-14 14:47:16,101 WARNING database DDL Query made to DB:
+CREATE DATABASE `_f30f5044ae83edeb`

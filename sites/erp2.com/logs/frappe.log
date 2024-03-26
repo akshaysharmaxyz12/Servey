@@ -1,0 +1,237 @@
+2024-03-14 15:00:21,826 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {}
+2024-03-14 15:00:23,001 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {}
+2024-03-14 15:00:24,117 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {}
+2024-03-14 15:11:10,767 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {}
+2024-03-14 15:11:11,532 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {}
+2024-03-14 15:11:15,033 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {}
+2024-03-14 15:11:16,315 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {}
+2024-03-14 15:11:17,191 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {}
+2024-03-14 15:12:10,175 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {}
+2024-03-14 15:12:10,948 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {}
+2024-03-14 15:12:11,497 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {}
+2024-03-14 15:12:40,614 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {}
+2024-03-14 15:12:41,193 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {}
+2024-03-14 15:12:51,967 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {}
+2024-03-14 15:12:53,106 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {}
+2024-03-14 15:14:27,836 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {}
+2024-03-14 15:14:28,898 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {}
+2024-03-14 15:15:54,056 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {}
+2024-03-14 15:15:54,640 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {}
+2024-03-14 15:18:37,590 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {}
+2024-03-14 15:18:38,193 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {}
+2024-03-14 16:26:45,322 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {'email': 'akshaysharmaxyz12@gmail.com', 'cmd': 'frappe.email.doctype.newsletter.newsletter.subscribe'}
+2024-03-15 17:46:09,625 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {}
+2024-03-18 16:12:24,345 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {'with_parent': '1', 'cached_timestamp': '', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2024-03-18 17:17:10,758 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {'doc': '{"name":"Program Doctype","creation":"2024-03-18 13:08:59.998672","modified":"2024-03-18 17:15:51.005433","modified_by":"Administrator","owner":"Administrator","docstatus":0,"idx":0,"issingle":0,"is_virtual":0,"is_tree":0,"istable":0,"editable_grid":0,"track_changes":0,"module":"Student Module1","naming_rule":"","sort_field":"modified","sort_order":"DESC","read_only":0,"in_create":0,"allow_copy":0,"allow_rename":1,"allow_import":0,"hide_toolbar":0,"track_seen":0,"max_attachments":0,"document_type":"","engine":"InnoDB","is_submittable":0,"show_name_in_global_search":0,"custom":0,"beta":0,"has_web_view":0,"allow_guest_to_view":0,"email_append_to":0,"show_title_field_in_link":0,"translated_doctype":0,"is_calendar_and_gantt":0,"quick_entry":0,"track_views":0,"queue_in_background":0,"allow_events_in_timeline":0,"allow_auto_repeat":0,"make_attachments_public":0,"force_re_route_to_default_view":0,"show_preview_popup":0,"index_web_pages_for_search":1,"doctype":"DocType","permissions":[{"name":"dbb4fae48d","creation":"2024-03-18 13:08:59.998672","modified":"2024-03-18 17:15:51.005433","modified_by":"Administrator","owner":"Administrator","docstatus":0,"parent":"Program Doctype","parentfield":"permissions","parenttype":"DocType","idx":1,"permlevel":0,"role":"System Manager","read":1,"write":1,"create":1,"submit":0,"cancel":0,"delete":1,"amend":0,"report":1,"export":1,"import":0,"share":1,"print":1,"email":1,"if_owner":0,"select":0,"doctype":"DocPerm"}],"states":[],"fields":[{"docstatus":0,"doctype":"DocField","name":"new-docfield-mhcsyghbsz","__islocal":1,"__unsaved":1,"owner":"Administrator","fieldtype":"Section Break","precision":"","non_negative":0,"hide_days":0,"hide_seconds":0,"reqd":0,"is_virtual":0,"search_index":0,"sort_options":0,"show_dashboard":0,"fetch_if_empty":0,"hidden":0,"bold":0,"allow_in_quick_entry":0,"translatable":0,"print_hide":0,"print_hide_if_no_value":0,"report_hide":0,"collapsible":0,"hide_border":0,"in_list_view":0,"in_standard_filter":0,"in_preview":0,"in_filter":0,"in_global_search":0,"read_only":0,"allow_on_submit":0,"ignore_user_permissions":0,"allow_bulk_edit":0,"permlevel":0,"ignore_xss_filter":0,"unique":0,"no_copy":0,"set_only_once":0,"remember_last_selected_value":0,"parent":"Program Doctype","parentfield":"fields","parenttype":"DocType","idx":1,"fieldname":"program_doctype_section","label":"Program Fields","show_preview_popup":0,"columns":0,"length":0},{"docstatus":0,"doctype":"DocField","name":"new-docfield-gkaaojwfwe","__islocal":1,"__unsaved":1,"owner":"Administrator","fieldtype":"Data","precision":"","non_negative":0,"hide_days":0,"hide_seconds":0,"reqd":0,"is_virtual":0,"search_index":0,"sort_options":0,"show_dashboard":0,"fetch_if_empty":0,"hidden":0,"bold":0,"allow_in_quick_entry":0,"translatable":0,"print_hide":0,"print_hide_if_no_value":0,"report_hide":0,"collapsible":0,"hide_border":0,"in_list_view":0,"in_standard_filter":0,"in_preview":0,"in_filter":0,"in_global_search":0,"read_only":0,"allow_on_submit":0,"ignore_user_permissions":0,"allow_bulk_edit":0,"permlevel":0,"ignore_xss_filter":0,"unique":0,"no_copy":0,"set_only_once":0,"remember_last_selected_value":0,"parent":"Program Doctype","parentfield":"fields","parenttype":"DocType","idx":2,"fieldname":"program_name","label":"Program Name","show_preview_popup":0,"columns":0,"length":0},{"docstatus":0,"doctype":"DocField","name":"new-docfield-vjtfjhkexw","__islocal":1,"__unsaved":1,"owner":"Administrator","fieldtype":"Data","precision":"","non_negative":0,"hide_days":0,"hide_seconds":0,"reqd":0,"is_virtual":0,"search_index":0,"sort_options":0,"show_dashboard":0,"fetch_if_empty":0,"hidden":0,"bold":0,"allow_in_quick_entry":0,"translatable":0,"print_hide":0,"print_hide_if_no_value":0,"report_hide":0,"collapsible":0,"hide_border":0,"in_list_view":0,"in_standard_filter":0,"in_preview":0,"in_filter":0,"in_global_search":0,"read_only":0,"allow_on_submit":0,"ignore_user_permissions":0,"allow_bulk_edit":0,"permlevel":0,"ignore_xss_filter":0,"unique":0,"no_copy":0,"set_only_once":0,"remember_last_selected_value":0,"parent":"Program Doctype","parentfield":"fields","parenttype":"DocType","idx":3,"fieldname":"description","label":"Description","show_preview_popup":0,"columns":0,"length":0},{"docstatus":0,"doctype":"DocField","name":"new-docfield-bvcwpqzekk","__islocal":1,"__unsaved":1,"owner":"Administrator","fieldtype":"Date","precision":"","non_negative":0,"hide_days":0,"hide_seconds":0,"reqd":0,"is_virtual":0,"search_index":0,"sort_options":0,"show_dashboard":0,"fetch_if_empty":0,"hidden":0,"bold":0,"allow_in_quick_entry":0,"translatable":0,"print_hide":0,"print_hide_if_no_value":0,"report_hide":0,"collapsible":0,"hide_border":0,"in_list_view":0,"in_standard_filter":0,"in_preview":0,"in_filter":0,"in_global_search":0,"read_only":0,"allow_on_submit":0,"ignore_user_permissions":0,"allow_bulk_edit":0,"permlevel":0,"ignore_xss_filter":0,"unique":0,"no_copy":0,"set_only_once":0,"remember_last_selected_value":0,"parent":"Program Doctype","parentfield":"fields","parenttype":"DocType","idx":4,"fieldname":"start_date","label":"Start Date","show_preview_popup":0,"columns":0,"length":0},{"docstatus":0,"doctype":"DocField","name":"new-docfield-twrrtfqnxa","__islocal":1,"__unsaved":1,"owner":"Administrator","fieldtype":"Date","precision":"","non_negative":0,"hide_days":0,"hide_seconds":0,"reqd":0,"is_virtual":0,"search_index":0,"sort_options":0,"show_dashboard":0,"fetch_if_empty":0,"hidden":0,"bold":0,"allow_in_quick_entry":0,"translatable":0,"print_hide":0,"print_hide_if_no_value":0,"report_hide":0,"collapsible":0,"hide_border":0,"in_list_view":0,"in_standard_filter":0,"in_preview":0,"in_filter":0,"in_global_search":0,"read_only":0,"allow_on_submit":0,"ignore_user_permissions":0,"allow_bulk_edit":0,"permlevel":0,"ignore_xss_filter":0,"unique":0,"no_copy":0,"set_only_once":0,"remember_last_selected_value":0,"parent":"Program Doctype","parentfield":"fields","parenttype":"DocType","idx":5,"fieldname":"end_date","label":"End Date","show_preview_popup":0,"columns":0,"length":0},{"docstatus":0,"doctype":"DocField","name":"new-docfield-wblsrshdki","__islocal":1,"__unsaved":1,"owner":"Administrator","fieldtype":"Float","precision":"","non_negative":0,"hide_days":0,"hide_seconds":0,"reqd":0,"is_virtual":0,"search_index":0,"sort_options":0,"show_dashboard":0,"fetch_if_empty":0,"hidden":0,"bold":0,"allow_in_quick_entry":0,"translatable":0,"print_hide":0,"print_hide_if_no_value":0,"report_hide":0,"collapsible":0,"hide_border":0,"in_list_view":0,"in_standard_filter":0,"in_preview":0,"in_filter":0,"in_global_search":0,"read_only":0,"allow_on_submit":0,"ignore_user_permissions":0,"allow_bulk_edit":0,"permlevel":0,"ignore_xss_filter":0,"unique":0,"no_copy":0,"set_only_once":0,"remember_last_selected_value":0,"parent":"Program Doctype","parentfield":"fields","parenttype":"DocType","idx":6,"fieldname":"duration","label":"Duration","show_preview_popup":0,"columns":0,"length":0},{"docstatus":0,"doctype":"DocField","name":"new-docfield-ieostelhth","__islocal":1,"__unsaved":1,"owner":"Administrator","fieldtype":"Float","precision":"","non_negative":0,"hide_days":0,"hide_seconds":0,"reqd":0,"is_virtual":0,"search_index":0,"sort_options":0,"show_dashboard":0,"fetch_if_empty":0,"hidden":0,"bold":0,"allow_in_quick_entry":0,"translatable":0,"print_hide":0,"print_hide_if_no_value":0,"report_hide":0,"collapsible":0,"hide_border":0,"in_list_view":0,"in_standard_filter":0,"in_preview":0,"in_filter":0,"in_global_search":0,"read_only":0,"allow_on_submit":0,"ignore_user_permissions":0,"allow_bulk_edit":0,"permlevel":0,"ignore_xss_filter":0,"unique":0,"no_copy":0,"set_only_once":0,"remember_last_selected_value":0,"parent":"Program Doctype","parentfield":"fields","parenttype":"DocType","idx":7,"fieldname":"total_credits","label":"Total Credits","show_preview_popup":0,"columns":0,"length":0},{"docstatus":0,"doctype":"DocField","name":"new-docfield-lqbredklcj","__islocal":1,"__unsaved":1,"owner":"Administrator","fieldtype":"Select","precision":"","non_negative":0,"hide_days":0,"hide_seconds":0,"reqd":0,"is_virtual":0,"search_index":0,"sort_options":0,"show_dashboard":0,"fetch_if_empty":0,"hidden":0,"bold":0,"allow_in_quick_entry":0,"translatable":0,"print_hide":0,"print_hide_if_no_value":0,"report_hide":0,"collapsible":0,"hide_border":0,"in_list_view":0,"in_standard_filter":0,"in_preview":0,"in_filter":0,"in_global_search":0,"read_only":0,"allow_on_submit":0,"ignore_user_permissions":0,"allow_bulk_edit":0,"permlevel":0,"ignore_xss_filter":0,"unique":0,"no_copy":0,"set_only_once":0,"remember_last_selected_value":0,"parent":"Program Doctype","parentfield":"fields","parenttype":"DocType","idx":8,"fieldname":"status","label":"Status","options":"Planned\\nOngoing\\nCompleted","show_preview_popup":0,"columns":0,"length":0},{"docstatus":0,"doctype":"DocField","name":"new-docfield-spabrlrwxu","__islocal":1,"__unsaved":1,"owner":"Administrator","fieldtype":"Link","precision":"","non_negative":0,"hide_days":0,"hide_seconds":0,"reqd":0,"is_virtual":0,"search_index":0,"sort_options":0,"show_dashboard":0,"fetch_if_empty":0,"hidden":0,"bold":0,"allow_in_quick_entry":0,"translatable":0,"print_hide":0,"print_hide_if_no_value":0,"report_hide":0,"collapsible":0,"hide_border":0,"in_list_view":0,"in_standard_filter":0,"in_preview":0,"in_filter":0,"in_global_search":0,"read_only":0,"allow_on_submit":0,"ignore_user_permissions":0,"allow_bulk_edit":0,"permlevel":0,"ignore_xss_filter":0,"unique":0,"no_copy":0,"set_only_once":0,"remember_last_selected_value":0,"parent":"Program Doctype","parentfield":"fields","parenttype":"DocType","idx":9,"fieldname":"instructor","label":"Instructor","options":"Employee","show_preview_popup":0,"columns":0,"length":0},{"docstatus":0,"doctype":"DocField","name":"new-docfield-nemjknyeqh","__islocal":1,"__unsaved":1,"owner":"Administrator","fieldtype":"Table","precision":"","non_negative":0,"hide_days":0,"hide_seconds":0,"reqd":0,"is_virtual":0,"search_index":0,"sort_options":0,"show_dashboard":0,"fetch_if_empty":0,"hidden":0,"bold":0,"allow_in_quick_entry":0,"translatable":0,"print_hide":0,"print_hide_if_no_value":0,"report_hide":0,"collapsible":0,"hide_border":0,"in_list_view":0,"in_standard_filter":0,"in_preview":0,"in_filter":0,"in_global_search":0,"read_only":0,"allow_on_submit":0,"ignore_user_permissions":0,"allow_bulk_edit":0,"permlevel":0,"ignore_xss_filter":0,"unique":0,"no_copy":0,"set_only_once":0,"remember_last_selected_value":0,"parent":"Program Doctype","parentfield":"fields","parenttype":"DocType","idx":10,"fieldname":"courses","label":"courses","show_preview_popup":0,"columns":0,"length":0,"options":"Course"},{"docstatus":0,"doctype":"DocField","name":"new-docfield-lxjphmwafm","__islocal":1,"__unsaved":1,"owner":"Administrator","fieldtype":"Link","precision":"","non_negative":0,"hide_days":0,"hide_seconds":0,"reqd":0,"is_virtual":0,"search_index":0,"sort_options":0,"show_dashboard":0,"fetch_if_empty":0,"hidden":0,"bold":0,"allow_in_quick_entry":0,"translatable":0,"print_hide":0,"print_hide_if_no_value":0,"report_hide":0,"collapsible":0,"hide_border":0,"in_list_view":0,"in_standard_filter":0,"in_preview":0,"in_filter":0,"in_global_search":0,"read_only":0,"allow_on_submit":0,"ignore_user_permissions":0,"allow_bulk_edit":0,"permlevel":0,"ignore_xss_filter":0,"unique":0,"no_copy":0,"set_only_once":0,"remember_last_selected_value":0,"parent":"Program Doctype","parentfield":"fields","parenttype":"DocType","idx":11,"__run_link_triggers":1,"fieldname":"topic","label":"Topic","options":"Topics","columns":0,"length":0}],"actions":[],"links":[],"__unsaved":1}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-03-19 12:51:39,527 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {'doctype': 'Student detail', 'name': 'new-student-detail-jottjnpbkz', 'cmd': 'frappe.desk.form.load.getdoc'}
+2024-03-19 12:53:37,252 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {'doctype': 'Student detail', 'name': 'new-student-detail-jqejgayjcn', 'cmd': 'frappe.desk.form.load.getdoc'}
+2024-03-19 13:05:43,487 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {'doctype': 'Student detail', 'name': 'new-student-detail-hrhywwyqrc', 'cmd': 'frappe.desk.form.load.getdoc'}
+2024-03-19 13:46:17,362 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Student detail","name":"new-student-detail-rnmkozcsmn","__islocal":1,"__unsaved":1,"owner":"Administrator","active":0,"gender":"Male","nationality":"Afghan","blood_group":"A+","first_name":"Akshay ","last_name":"Sharma","date_of_birth":"2000-05-01","e_mail":"akshayjwiokwhdi","address":"my home address-Personal","full_name":"Akshay   Sharma"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-03-19 13:46:32,882 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Student detail","name":"new-student-detail-rnmkozcsmn","__islocal":1,"__unsaved":1,"owner":"Administrator","active":0,"gender":"Male","nationality":"Afghan","blood_group":"A+","first_name":"Akshay ","last_name":"Sharma","date_of_birth":"2000-05-01","e_mail":"akshayjwiokwhdi","address":"my home address-Personal","full_name":"Akshay   Sharma"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-03-19 13:47:00,403 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Student detail","name":"new-student-detail-rnmkozcsmn","__islocal":1,"__unsaved":1,"owner":"Administrator","active":0,"gender":"Male","nationality":"Afghan","blood_group":"A+","first_name":"Akshay ","last_name":"Sharma","date_of_birth":"2000-05-01","e_mail":"akshayjwiokwhdi@gmail.com","address":"my home address-Personal","full_name":"Akshay   Sharma"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-03-19 13:50:46,208 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Address","name":"new-address-qwhsymlbfy","__islocal":1,"__unsaved":1,"owner":"Administrator","address_type":"Billing","country":"India","is_primary_address":0,"is_shipping_address":0,"disabled":0,"is_your_company_address":0,"links":[{"docstatus":0,"doctype":"Dynamic Link","name":"new-dynamic-link-bpaitldkml","__islocal":1,"__unsaved":1,"owner":"Administrator","parent":"new-address-qwhsymlbfy","parentfield":"links","parenttype":"Address","idx":1,"__unedited":false,"link_doctype":"Student detail","link_name":"\\"2024-03-19-0011\\""}],"address_title":"mohali ","address_line1":"sector 59 phase 4 mohali punjab","city":"mohali","county":"india","state":"Punjab","pincode":"177301"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-03-19 13:51:29,522 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Address","name":"new-address-qwhsymlbfy","__islocal":1,"__unsaved":1,"owner":"Administrator","address_type":"Billing","country":"India","is_primary_address":0,"is_shipping_address":0,"disabled":0,"is_your_company_address":0,"links":[{"docstatus":0,"doctype":"Dynamic Link","name":"new-dynamic-link-bpaitldkml","__islocal":1,"__unsaved":1,"owner":"Administrator","parent":"new-address-qwhsymlbfy","parentfield":"links","parenttype":"Address","idx":1,"__unedited":false,"link_doctype":"Student detail","link_name":"\\"2024-03-19-0011\\""}],"address_title":"mohali ","address_line1":"sector 59 phase 4 mohali punjab","city":"mohali","county":"india","state":"Punjab","pincode":"177301"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-03-19 13:52:02,427 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Student detail","name":"new-student-detail-zbpomaihsf","__islocal":1,"__unsaved":1,"owner":"Administrator","active":0,"gender":"Male","nationality":"Afghan","blood_group":"A+","full_name":"undefined  undefined"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-03-19 13:52:15,532 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Student detail","name":"new-student-detail-zbpomaihsf","__islocal":1,"__unsaved":1,"owner":"Administrator","active":0,"gender":"Male","nationality":"Afghan","blood_group":"A+","full_name":"undefined  undefined"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-03-19 13:55:39,912 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Student detail","name":"new-student-detail-zopxngfedi","__islocal":1,"__unsaved":1,"owner":"Administrator","active":0,"gender":"Male","nationality":"Afghan","blood_group":"A+","first_name":"Akshay","last_name":"Sharma","e_mail":"akshaysharmaxyz12@gmail.com","full_name":"Akshay  Sharma"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-03-19 13:57:28,806 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Student detail","name":"new-student-detail-tdwppindel","__islocal":1,"__unsaved":1,"owner":"Administrator","active":0,"gender":"Male","nationality":"Afghan","blood_group":"A+","first_name":"Akshay ","last_name":"Sharma","date_of_birth":"2000-05-01","e_mail":"akshaysharmaxyz12@gmail.com","full_name":"Akshay   Sharma"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-03-19 13:58:29,912 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Student detail","name":"new-student-detail-tdwppindel","__islocal":1,"__unsaved":1,"owner":"Administrator","active":0,"gender":"Male","nationality":"Afghan","blood_group":"A+","first_name":"Akshay ","last_name":"Sharma","date_of_birth":"2000-05-01","e_mail":"akshaysharmaxyz12@gmail.com","full_name":"Akshay   Sharma","address":"my address-Billing"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-03-19 14:06:55,691 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Student detail","name":"new-student-detail-pnpefjwyqt","__islocal":1,"__unsaved":1,"owner":"Administrator","active":0,"gender":"Male","nationality":"Afghan","blood_group":"A+","first_name":"kjhgfdfghjk","full_name":"kjhgfdfghjk  undefined"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-03-19 14:07:52,526 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {'doctype': 'Student detail', 'name': 'new-student-detail-pnpefjwyqt', 'cmd': 'frappe.desk.form.load.getdoc'}
+2024-03-19 14:08:49,346 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Student detail","name":"new-student-detail-jluixhoegt","__islocal":1,"__unsaved":1,"owner":"Administrator","active":0,"gender":"Male","nationality":"Afghan","blood_group":"A+","first_name":"akshay","last_name":"Sharma","e_mail":"akshaysharmaxyz12@gmail.com","full_name":"akshay  Sharma"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-03-19 14:12:25,945 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Student detail","name":"new-student-detail-elkdrvzxic","__islocal":1,"__unsaved":1,"owner":"Administrator","active":0,"gender":"Male","nationality":"Afghan","blood_group":"A+","first_name":"akshay","last_name":"sharma","date_of_birth":"2000-05-01","e_mail":"akshaysharmaxyz12@gmail.com","full_name":"akshay  sharma"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-03-19 17:21:12,078 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {'doctype': 'Student Doctype', 'with_parent': '1', 'cached_timestamp': '', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2024-03-19 21:39:38,335 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {'doctype': 'student details', 'with_parent': '1', 'cached_timestamp': '2024-03-19 18:16:47.029914', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2024-03-19 21:39:38,337 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {'doctype': 'student details', 'with_parent': '1', 'cached_timestamp': '2024-03-19 18:16:47.029914', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2024-03-19 21:39:38,335 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {'doctype': 'student details', 'with_parent': '1', 'cached_timestamp': '2024-03-19 18:16:47.029914', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2024-03-19 21:39:38,337 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {'doctype': 'student details', 'with_parent': '1', 'cached_timestamp': '2024-03-19 18:16:47.029914', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2024-03-19 21:40:02,646 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {'doctype': 'student details', 'with_parent': '1', 'cached_timestamp': '2024-03-19 18:16:47.029914', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2024-03-19 21:40:02,646 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {'doctype': 'student details', 'with_parent': '1', 'cached_timestamp': '2024-03-19 18:16:47.029914', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2024-03-20 17:33:29,397 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {'doctype': 'Customer cs doctype', 'with_parent': '1', 'cached_timestamp': '2024-03-20 17:12:36.989816', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2024-03-20 17:35:49,699 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {'doctype': 'Customer cs doctype', 'with_parent': '1', 'cached_timestamp': '2024-03-20 17:12:36.989816', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2024-03-20 17:36:04,532 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {'doctype': 'Customer cs doctype', 'with_parent': '1', 'cached_timestamp': '2024-03-20 17:12:36.989816', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2024-03-20 17:44:43,630 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {'doctype': 'Customer cs doctype', 'with_parent': '1', 'cached_timestamp': '2024-03-20 17:12:36.989816', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2024-03-20 17:46:20,843 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {'doctype': 'Customer cs doctype', 'with_parent': '1', 'cached_timestamp': '2024-03-20 17:12:36.989816', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2024-03-20 17:46:43,904 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {'doctype': 'Customer cs doctype', 'with_parent': '1', 'cached_timestamp': '2024-03-20 17:12:36.989816', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2024-03-20 17:47:01,673 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {'doctype': 'Customer cs doctype', 'with_parent': '1', 'cached_timestamp': '2024-03-20 17:12:36.989816', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2024-03-20 17:49:06,626 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {'doctype': 'Customer cs doctype', 'name': 'Akshay', 'cmd': 'frappe.desk.form.load.getdoc'}
+2024-03-20 17:51:22,922 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Customer cs doctype","name":"new-customer-cs-doctype-hebhysazxk","__islocal":1,"__unsaved":1,"owner":"Administrator","first_name":"Aksha","last_name":"sharma","mobile_no":"+91-8219832287","email":"akshaysharmaxyz12@mail.com","address":"my address-Billing"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-03-20 17:51:38,600 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Customer cs doctype","name":"new-customer-cs-doctype-hebhysazxk","__islocal":1,"__unsaved":1,"owner":"Administrator","first_name":"Aksha","last_name":"sharma","mobile_no":"+91-8219832287","email":"akshaysharmaxyz12@mail.com","address":"my address-Billing"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-03-20 17:53:02,911 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {'doctype': 'Customer cs doctype', 'name': 'new-customer-cs-doctype-hebhysazxk', 'cmd': 'frappe.desk.form.load.getdoc'}
+2024-03-20 17:53:07,918 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {'doctype': 'Customer cs doctype', 'name': 'Akshay', 'cmd': 'frappe.desk.form.load.getdoc'}
+2024-03-20 17:53:47,012 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Customer cs doctype","name":"new-customer-cs-doctype-jskwfkkodj","__islocal":1,"__unsaved":1,"owner":"Administrator","first_name":"lkjhgfdsdfghjk","last_name":"lkjhgfdxcvghjk","address":"mohali room address-Personal"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-03-20 17:57:59,112 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Customer cs doctype","name":"new-customer-cs-doctype-srceqdygfi","__islocal":1,"__unsaved":1,"owner":"Administrator","first_name":"kjhgfdsdfghjk","last_name":"kuytreswasdfgthyjuk","address":"mohali room address-Personal"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-03-20 18:01:16,836 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Customer cs doctype","name":"new-customer-cs-doctype-zwanmjhrux","__islocal":1,"__unsaved":1,"owner":"Administrator","first_name":"kjhgfdsasdfgh","last_name":"kutresdfghj","email":"akshaysharmaxyz12@gmail.com","address":"mohali room address-Personal"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-03-20 18:08:55,679 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Customer cs doctype","name":"new-customer-cs-doctype-icawmkskbq","__islocal":1,"__unsaved":1,"owner":"Administrator","first_name":"kjhgfds","last_name":"kjuytfrdsa","address":"mohali room address-Personal"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-03-20 18:11:09,851 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Customer cs doctype","name":"new-customer-cs-doctype-lbhreasajm","__islocal":1,"__unsaved":1,"owner":"Administrator","first_name":"kjhgfds","last_name":"kjhgfd","address":"mohali room address-Personal"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-03-20 18:16:28,190 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Customer cs doctype","name":"new-customer-cs-doctype-tggwhesiun","__islocal":1,"__unsaved":1,"owner":"Administrator","first_name":"kiuytrea","address":"mohali room address-Personal","last_name":"oiuytreswa"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-03-20 18:17:44,884 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {'doctype': 'Customer cs doctype', 'name': 'new-customer-cs-doctype-tggwhesiun', 'cmd': 'frappe.desk.form.load.getdoc'}
+2024-03-20 18:18:06,284 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Customer cs doctype","name":"new-customer-cs-doctype-bwvjbrphnk","__islocal":1,"__unsaved":1,"owner":"Administrator","first_name":"kjuhygfds","last_name":"kjhgfdxz","address":"mohali room address-Personal"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-03-20 18:29:36,746 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Customer cs doctype","name":"new-customer-cs-doctype-bwvjbrphnk","__islocal":1,"__unsaved":1,"owner":"Administrator","first_name":"kjuhygfds","last_name":"kjhgfdxz","address":"mohali room address-Personal"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-03-20 18:30:56,224 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Customer cs doctype","name":"new-customer-cs-doctype-otmrpudwbo","__islocal":1,"__unsaved":1,"owner":"Administrator","first_name":"lkjhgfds","last_name":"lkiuygtfds","address":"mohali room address-Personal"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-03-20 18:31:24,557 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Customer cs doctype","name":"new-customer-cs-doctype-otmrpudwbo","__islocal":1,"__unsaved":1,"owner":"Administrator","first_name":"lkjhgfds","last_name":"lkiuygtfds","address":"mohali room address-Personal"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-03-20 18:33:50,443 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {'doctype': 'Customer cs doctype', 'name': 'new-customer-cs-doctype-otmrpudwbo', 'cmd': 'frappe.desk.form.load.getdoc'}
+2024-03-20 18:34:11,448 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Customer cs doctype","name":"new-customer-cs-doctype-qmqngqygvd","__islocal":1,"__unsaved":1,"owner":"Administrator","first_name":"kjhgfd","last_name":"kjhgfd","address":"mohali room address-Personal"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-03-20 22:24:11,330 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {'cmd': 'client_script.customizations.student.export_customers_list'}
+2024-03-22 10:20:36,517 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {'doctype': 'Job Apply', 'with_parent': '1', 'cached_timestamp': '', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2024-03-22 11:05:21,531 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {'doctype': 'Job Apply', 'with_parent': '1', 'cached_timestamp': '', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2024-03-22 11:06:56,732 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {'doctype': 'Job Apply', 'with_parent': '1', 'cached_timestamp': '', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2024-03-22 13:33:20,180 ERROR frappe New Exception collected in error log
+Site: erp2.com
+Form Dict: {'doc': '{"doctype":"DocType","name":"Details","creation":"2024-03-21 15:08:09.746930","modified":"2024-03-22 12:02:53.265989","modified_by":"Administrator","owner":"Administrator","docstatus":0,"idx":0,"issingle":0,"is_virtual":0,"is_tree":0,"istable":1,"editable_grid":1,"track_changes":0,"module":"client script","autoname":"autoincrement","naming_rule":"Autoincrement","sort_field":"modified","sort_order":"DESC","read_only":0,"in_create":0,"allow_copy":0,"allow_rename":0,"allow_import":0,"hide_toolbar":0,"track_seen":0,"max_attachments":0,"document_type":"","engine":"InnoDB","is_submittable":0,"show_name_in_global_search":0,"custom":0,"beta":0,"has_web_view":0,"allow_guest_to_view":0,"email_append_to":0,"show_title_field_in_link":0,"translated_doctype":0,"is_calendar_and_gantt":0,"quick_entry":0,"track_views":0,"queue_in_background":0,"allow_events_in_timeline":0,"allow_auto_repeat":0,"make_attachments_public":0,"force_re_route_to_default_view":0,"show_preview_popup":0,"index_web_pages_for_search":1,"fields":[{"docstatus":0,"doctype":"DocField","name":"new-docfield-dcyempjfrk","__islocal":1,"__unsaved":1,"owner":"Administrator","fieldtype":"Section Break","precision":"","non_negative":0,"hide_days":0,"hide_seconds":0,"reqd":0,"is_virtual":0,"search_index":0,"sort_options":0,"show_dashboard":0,"fetch_if_empty":0,"hidden":0,"bold":0,"allow_in_quick_entry":0,"translatable":0,"print_hide":0,"print_hide_if_no_value":0,"report_hide":0,"collapsible":0,"hide_border":0,"in_list_view":0,"in_standard_filter":1,"in_preview":0,"in_filter":0,"in_global_search":0,"read_only":0,"allow_on_submit":0,"ignore_user_permissions":0,"allow_bulk_edit":0,"permlevel":0,"ignore_xss_filter":0,"unique":0,"no_copy":0,"set_only_once":0,"remember_last_selected_value":0,"parent":"Details","parentfield":"fields","parenttype":"DocType","idx":1,"fieldname":"enter_details_section","label":"Enter Details","show_preview_popup":0,"columns":0,"length":0,"options":""},{"docstatus":0,"doctype":"DocField","name":"new-docfield-qnjnbmpytv","__islocal":1,"__unsaved":1,"owner":"Administrator","fieldtype":"Select","precision":"","non_negative":0,"hide_days":0,"hide_seconds":0,"reqd":0,"is_virtual":0,"search_index":0,"sort_options":0,"show_dashboard":0,"fetch_if_empty":0,"hidden":0,"bold":0,"allow_in_quick_entry":0,"translatable":0,"print_hide":0,"print_hide_if_no_value":0,"report_hide":0,"collapsible":0,"hide_border":0,"in_list_view":0,"in_standard_filter":0,"in_preview":0,"in_filter":0,"in_global_search":0,"read_only":0,"allow_on_submit":0,"ignore_user_permissions":0,"allow_bulk_edit":0,"permlevel":0,"ignore_xss_filter":0,"unique":0,"no_copy":0,"set_only_once":0,"remember_last_selected_value":0,"parent":"Details","parentfield":"fields","parenttype":"DocType","idx":2,"fieldname":"language","label":"Language","options":"Python\\nJavaScript\\nPHP","show_preview_popup":0,"columns":0,"length":0},{"docstatus":0,"doctype":"DocField","name":"new-docfield-sylufdysln","__islocal":1,"__unsaved":1,"owner":"Administrator","fieldtype":"Read Only","precision":"","non_negative":0,"hide_days":0,"hide_seconds":0,"reqd":0,"is_virtual":0,"search_index":0,"sort_options":0,"show_dashboard":0,"fetch_if_empty":0,"hidden":0,"bold":0,"allow_in_quick_entry":0,"translatable":0,"print_hide":0,"print_hide_if_no_value":0,"report_hide":0,"collapsible":0,"hide_border":0,"in_list_view":0,"in_standard_filter":0,"in_preview":0,"in_filter":0,"in_global_search":0,"read_only":0,"allow_on_submit":0,"ignore_user_permissions":0,"allow_bulk_edit":0,"permlevel":0,"ignore_xss_filter":0,"unique":0,"no_copy":0,"set_only_once":0,"remember_last_selected_value":0,"parent":"Details","parentfield":"fields","parenttype":"DocType","idx":3,"fieldname":"framework","label":"Framework","show_preview_popup":0,"columns":0,"length":0},{"docstatus":0,"doctype":"DocField","name":"new-docfield-jplhdiiovx","__islocal":1,"__unsaved":1,"owner":"Administrator","fieldtype":"Select","precision":"","non_negative":0,"hide_days":0,"hide_seconds":0,"reqd":0,"is_virtual":0,"search_index":0,"sort_options":0,"show_dashboard":0,"fetch_if_empty":0,"hidden":0,"bold":0,"allow_in_quick_entry":0,"translatable":0,"print_hide":0,"print_hide_if_no_value":0,"report_hide":0,"collapsible":0,"hide_border":0,"in_list_view":0,"in_standard_filter":0,"in_preview":0,"in_filter":0,"in_global_search":0,"read_only":0,"allow_on_submit":0,"ignore_user_permissions":0,"allow_bulk_edit":0,"permlevel":0,"ignore_xss_filter":0,"unique":0,"no_copy":0,"set_only_once":0,"remember_last_selected_value":0,"parent":"Details","parentfield":"fields","parenttype":"DocType","idx":4,"fieldname":"ides","label":"IDEs","options":"VS Code\\nIntelliJ IDEA","show_preview_popup":0,"columns":0,"length":0},{"docstatus":0,"doctype":"DocField","name":"new-docfield-agkztnqieu","__islocal":1,"__unsaved":1,"owner":"Administrator","fieldtype":"Date","precision":"","non_negative":0,"hide_days":0,"hide_seconds":0,"reqd":0,"is_virtual":0,"search_index":0,"sort_options":0,"show_dashboard":0,"fetch_if_empty":0,"hidden":0,"bold":0,"allow_in_quick_entry":0,"translatable":0,"print_hide":0,"print_hide_if_no_value":0,"report_hide":0,"collapsible":0,"hide_border":0,"in_list_view":0,"in_standard_filter":0,"in_preview":0,"in_filter":0,"in_global_search":0,"read_only":0,"allow_on_submit":0,"ignore_user_permissions":0,"allow_bulk_edit":0,"permlevel":0,"ignore_xss_filter":0,"unique":0,"no_copy":0,"set_only_once":0,"remember_last_selected_value":0,"parent":"Details","parentfield":"fields","parenttype":"DocType","idx":5,"fieldname":"applied_date","label":"Applied Date","show_preview_popup":0,"columns":0,"length":0},{"docstatus":0,"doctype":"DocField","name":"new-docfield-hhctcjesck","__islocal":1,"__unsaved":1,"owner":"Administrator","fieldtype":"Column Break","precision":"","non_negative":0,"hide_days":0,"hide_seconds":0,"reqd":0,"is_virtual":0,"search_index":0,"sort_options":0,"show_dashboard":0,"fetch_if_empty":0,"hidden":0,"bold":0,"allow_in_quick_entry":0,"translatable":0,"print_hide":0,"print_hide_if_no_value":0,"report_hide":0,"collapsible":0,"hide_border":0,"in_list_view":0,"in_standard_filter":0,"in_preview":0,"in_filter":0,"in_global_search":0,"read_only":0,"allow_on_submit":0,"ignore_user_permissions":0,"allow_bulk_edit":0,"permlevel":0,"ignore_xss_filter":0,"unique":0,"no_copy":0,"set_only_once":0,"remember_last_selected_value":0,"parent":"Details","parentfield":"fields","parenttype":"DocType","idx":6,"fieldname":"column_break_idrz","label":"","show_preview_popup":0,"columns":0,"length":0},{"docstatus":0,"doctype":"DocField","name":"new-docfield-bnotuaeqni","__islocal":1,"__unsaved":1,"owner":"Administrator","fieldtype":"Select","precision":"","non_negative":0,"hide_days":0,"hide_seconds":0,"reqd":0,"is_virtual":0,"search_index":0,"sort_options":0,"show_dashboard":0,"fetch_if_empty":0,"hidden":0,"bold":0,"allow_in_quick_entry":0,"translatable":0,"print_hide":0,"print_hide_if_no_value":0,"report_hide":0,"collapsible":0,"hide_border":0,"in_list_view":0,"in_standard_filter":0,"in_preview":0,"in_filter":0,"in_global_search":0,"read_only":0,"allow_on_submit":0,"ignore_user_permissions":0,"allow_bulk_edit":0,"permlevel":0,"ignore_xss_filter":0,"unique":0,"no_copy":0,"set_only_once":0,"remember_last_selected_value":0,"parent":"Details","parentfield":"fields","parenttype":"DocType","idx":7,"fieldname":"bug_tracking_system","label":"Bug Tracking System","show_preview_popup":0,"columns":0,"length":0},{"docstatus":0,"doctype":"DocField","name":"new-docfield-afbmwagzsb","__islocal":1,"__unsaved":1,"owner":"Administrator","fieldtype":"Int","precision":"","non_negative":0,"hide_days":0,"hide_seconds":0,"reqd":0,"is_virtual":0,"search_index":0,"sort_options":0,"show_dashboard":0,"fetch_if_empty":0,"hidden":0,"bold":0,"allow_in_quick_entry":0,"translatable":0,"print_hide":0,"print_hide_if_no_value":0,"report_hide":0,"collapsible":0,"hide_border":0,"in_list_view":0,"in_standard_filter":0,"in_preview":0,"in_filter":0,"in_global_search":0,"read_only":0,"allow_on_submit":0,"ignore_user_permissions":0,"allow_bulk_edit":0,"permlevel":0,"ignore_xss_filter":0,"unique":0,"no_copy":0,"set_only_once":0,"remember_last_selected_value":0,"parent":"Details","parentfield":"fields","parenttype":"DocType","idx":8,"fieldname":"automation_experience","label":"Automation Experience","show_preview_popup":0,"columns":0,"length":0},{"docstatus":0,"doctype":"DocField","name":"new-docfield-cddqkllrqd","__islocal":1,"__unsaved":1,"owner":"Administrator","fieldtype":"Data","precision":"","non_negative":0,"hide_days":0,"hide_seconds":0,"reqd":0,"is_virtual":0,"search_index":0,"sort_options":0,"show_dashboard":0,"fetch_if_empty":0,"hidden":0,"bold":0,"allow_in_quick_entry":0,"translatable":0,"print_hide":0,"print_hide_if_no_value":0,"report_hide":0,"collapsible":0,"hide_border":0,"in_list_view":0,"in_standard_filter":0,"in_preview":0,"in_filter":0,"in_global_search":0,"read_only":0,"allow_on_submit":0,"ignore_user_permissions":0,"allow_bulk_edit":0,"permlevel":0,"ignore_xss_filter":0,"unique":0,"no_copy":0,"set_only_once":0,"remember_last_selected_value":0,"parent":"Details","parentfield":"fields","parenttype":"DocType","idx":9,"fieldname":"test_environments","label":"Test Environments","show_preview_popup":0,"columns":0,"length":0},{"docstatus":0,"doctype":"DocField","name":"new-docfield-kfckdragyh","__islocal":1,"__unsaved":1,"owner":"Administrator","fieldtype":"Column Break","precision":"","non_negative":0,"hide_days":0,"hide_seconds":0,"reqd":0,"is_virtual":0,"search_index":0,"sort_options":0,"show_dashboard":0,"fetch_if_empty":0,"hidden":0,"bold":0,"allow_in_quick_entry":0,"translatable":0,"print_hide":0,"print_hide_if_no_value":0,"report_hide":0,"collapsible":0,"hide_border":0,"in_list_view":0,"in_standard_filter":0,"in_preview":0,"in_filter":0,"in_global_search":0,"read_only":0,"allow_on_submit":0,"ignore_user_permissions":0,"allow_bulk_edit":0,"permlevel":0,"ignore_xss_filter":0,"unique":0,"no_copy":0,"set_only_once":0,"remember_last_selected_value":0,"parent":"Details","parentfield":"fields","parenttype":"DocType","idx":10,"fieldname":"column_break_oczh","label":"","show_preview_popup":0,"columns":0,"length":0},{"docstatus":0,"doctype":"DocField","name":"new-docfield-whmkmpqyrj","__islocal":1,"__unsaved":1,"owner":"Administrator","fieldtype":"Data","precision":"","non_negative":0,"hide_days":0,"hide_seconds":0,"reqd":0,"is_virtual":0,"search_index":0,"sort_options":0,"show_dashboard":0,"fetch_if_empty":0,"hidden":0,"bold":0,"allow_in_quick_entry":0,"translatable":0,"print_hide":0,"print_hide_if_no_value":0,"report_hide":0,"collapsible":0,"hide_border":0,"in_list_view":0,"in_standard_filter":0,"in_preview":0,"in_filter":0,"in_global_search":0,"read_only":0,"allow_on_submit":0,"ignore_user_permissions":0,"allow_bulk_edit":0,"permlevel":0,"ignore_xss_filter":0,"unique":0,"no_copy":0,"set_only_once":0,"remember_last_selected_value":0,"parent":"Details","parentfield":"fields","parenttype":"DocType","idx":11,"fieldname":"design_style","label":"Design Style","show_preview_popup":0,"columns":0,"length":0},{"docstatus":0,"doctype":"DocField","name":"new-docfield-qomnxrntyd","__islocal":1,"__unsaved":1,"owner":"Administrator","fieldtype":"Data","precision":"","non_negative":0,"hide_days":0,"hide_seconds":0,"reqd":0,"is_virtual":0,"search_index":0,"sort_options":0,"show_dashboard":0,"fetch_if_empty":0,"hidden":0,"bold":0,"allow_in_quick_entry":0,"translatable":0,"print_hide":0,"print_hide_if_no_value":0,"report_hide":0,"collapsible":0,"hide_border":0,"in_list_view":0,"in_standard_filter":0,"in_preview":0,"in_filter":0,"in_global_search":0,"read_only":0,"allow_on_submit":0,"ignore_user_permissions":0,"allow_bulk_edit":0,"permlevel":0,"ignore_xss_filter":0,"unique":0,"no_copy":0,"set_only_once":0,"remember_last_selected_value":0,"parent":"Details","parentfield":"fields","parenttype":"DocType","idx":12,"fieldname":"color_theory_knowledge","label":"Color Theory Knowledge","show_preview_popup":0,"columns":0,"length":0},{"docstatus":0,"doctype":"DocField","name":"new-docfield-dlmjyltcqj","__islocal":1,"__unsaved":1,"owner":"Administrator","fieldtype":"Data","precision":"","non_negative":0,"hide_days":0,"hide_seconds":0,"reqd":0,"is_virtual":0,"search_index":0,"sort_options":0,"show_dashboard":0,"fetch_if_empty":0,"hidden":0,"bold":0,"allow_in_quick_entry":0,"translatable":0,"print_hide":0,"print_hide_if_no_value":0,"report_hide":0,"collapsible":0,"hide_border":0,"in_list_view":0,"in_standard_filter":0,"in_preview":0,"in_filter":0,"in_global_search":0,"read_only":0,"allow_on_submit":0,"ignore_user_permissions":0,"allow_bulk_edit":0,"permlevel":0,"ignore_xss_filter":0,"unique":0,"no_copy":0,"set_only_once":0,"remember_last_selected_value":0,"parent":"Details","parentfield":"fields","parenttype":"DocType","idx":13,"fieldname":"typography_skills","label":"Typography Skills","show_preview_popup":0,"columns":0,"length":0},{"docstatus":0,"doctype":"DocField","name":"new-docfield-gvuyrarihp","__islocal":1,"__unsaved":1,"owner":"Administrator","fieldtype":"Int","precision":"","non_negative":0,"hide_days":0,"hide_seconds":0,"reqd":0,"is_virtual":0,"search_index":0,"sort_options":0,"show_dashboard":0,"fetch_if_empty":0,"hidden":0,"bold":0,"allow_in_quick_entry":0,"translatable":0,"print_hide":0,"print_hide_if_no_value":0,"report_hide":0,"collapsible":0,"hide_border":0,"in_list_view":0,"in_standard_filter":0,"in_preview":0,"in_filter":0,"in_global_search":0,"read_only":0,"allow_on_submit":0,"ignore_user_permissions":0,"allow_bulk_edit":0,"permlevel":0,"ignore_xss_filter":0,"unique":0,"no_copy":0,"set_only_once":0,"remember_last_selected_value":0,"parent":"Details","parentfield":"fields","parenttype":"DocType","idx":14,"fieldname":"uiux_experience","label":"UI/UX Experience","show_preview_popup":0,"columns":0,"length":0}],"permissions":[],"actions":[],"links":[],"states":[],"__unsaved":1}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}

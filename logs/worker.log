@@ -1,0 +1,729 @@
+2024-03-14 12:30:10,173 Worker rq:worker:a8aed73c5ece4a7196c5bdd16fff6804 started with PID 14094, version 1.15.1
+2024-03-14 12:30:10,174 Subscribing to channel rq:pubsub:a8aed73c5ece4a7196c5bdd16fff6804
+2024-03-14 12:30:10,176 *** Listening on home-erp_user-frappe-bench:short, home-erp_user-frappe-bench:default, home-erp_user-frappe-bench:long...
+2024-03-14 12:30:10,177 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-14 12:30:10,180 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-14 12:30:10,183 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-14 12:57:10,508 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-14 12:57:10,560 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-14 12:57:10,564 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-14 13:00:19,505 Worker a8aed73c5ece4a7196c5bdd16fff6804 [PID 14094]: warm shut down requested
+2024-03-14 15:00:07,796 Worker rq:worker:6cebca0019f7417ea3231246f6d74569 started with PID 14951, version 1.15.1
+2024-03-14 15:00:07,798 Subscribing to channel rq:pubsub:6cebca0019f7417ea3231246f6d74569
+2024-03-14 15:00:07,807 *** Listening on home-erp_user-frappe-bench:short, home-erp_user-frappe-bench:default, home-erp_user-frappe-bench:long...
+2024-03-14 15:00:07,809 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-14 15:00:07,816 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-14 15:00:07,820 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-14 15:00:36,135 Worker 6cebca0019f7417ea3231246f6d74569 [PID 14951]: warm shut down requested
+2024-03-14 15:00:36,150 Unsubscribing from channel rq:pubsub:6cebca0019f7417ea3231246f6d74569
+2024-03-14 15:10:50,111 Worker rq:worker:8b0e04334885453dae767349e34c7692 started with PID 15065, version 1.15.1
+2024-03-14 15:10:50,112 Subscribing to channel rq:pubsub:8b0e04334885453dae767349e34c7692
+2024-03-14 15:10:50,117 *** Listening on home-erp_user-frappe-bench:short, home-erp_user-frappe-bench:default, home-erp_user-frappe-bench:long...
+2024-03-14 15:10:50,120 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-14 15:10:50,131 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-14 15:10:50,135 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-14 15:12:19,354 Worker 8b0e04334885453dae767349e34c7692 [PID 15065]: warm shut down requested
+2024-03-14 15:12:32,473 Worker rq:worker:3b6f8e852a5c4bc995ff110da7fc47a6 started with PID 15196, version 1.15.1
+2024-03-14 15:12:32,474 Subscribing to channel rq:pubsub:3b6f8e852a5c4bc995ff110da7fc47a6
+2024-03-14 15:12:32,482 *** Listening on home-erp_user-frappe-bench:short, home-erp_user-frappe-bench:default, home-erp_user-frappe-bench:long...
+2024-03-14 15:12:32,485 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-14 15:12:32,491 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-14 15:12:32,495 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-14 15:13:13,270 Worker 3b6f8e852a5c4bc995ff110da7fc47a6 [PID 15196]: warm shut down requested
+2024-03-14 15:13:13,275 Unsubscribing from channel rq:pubsub:3b6f8e852a5c4bc995ff110da7fc47a6
+2024-03-14 15:14:14,448 Worker rq:worker:7f2b7dec9320430f891ed49ef096703f started with PID 15348, version 1.15.1
+2024-03-14 15:14:14,448 Subscribing to channel rq:pubsub:7f2b7dec9320430f891ed49ef096703f
+2024-03-14 15:14:14,452 *** Listening on home-erp_user-frappe-bench:short, home-erp_user-frappe-bench:default, home-erp_user-frappe-bench:long...
+2024-03-14 15:14:14,465 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-14 15:14:14,498 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-14 15:14:14,503 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-14 15:26:47,572 home-erp_user-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.user.user.create_contact', kwargs={'user': <User: akshay.sharma@nestorbird.com>, 'ignore_mandatory': True}, method='frappe.core.doctype.user.user.create_contact', site='erp2.com', user='Administrator') (erp2.com::b74af727-ffcd-4d26-ab72-66c1133026bf)
+2024-03-14 15:26:55,324 home-erp_user-frappe-bench:default: Job OK (erp2.com::b74af727-ffcd-4d26-ab72-66c1133026bf)
+2024-03-14 15:26:55,332 Result is kept for 600 seconds
+2024-03-14 15:26:55,426 home-erp_user-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.user.user.update_gravatar', kwargs={'name': 'akshay.sharma@nestorbird.com'}, method='frappe.core.doctype.user.user.update_gravatar', site='erp2.com', user='Administrator') (erp2.com::50f606fb-ec81-4bb9-9745-faf6804bca93)
+2024-03-14 15:26:58,364 home-erp_user-frappe-bench:default: Job OK (erp2.com::50f606fb-ec81-4bb9-9745-faf6804bca93)
+2024-03-14 15:26:58,364 Result is kept for 600 seconds
+2024-03-14 15:29:11,304 Worker 7f2b7dec9320430f891ed49ef096703f [PID 15348]: warm shut down requested
+2024-03-14 15:30:23,944 Worker rq:worker:f7ff40f28e8843398cbfd92b76c59466 started with PID 15965, version 1.15.1
+2024-03-14 15:30:23,944 Subscribing to channel rq:pubsub:f7ff40f28e8843398cbfd92b76c59466
+2024-03-14 15:30:23,950 *** Listening on home-erp_user-frappe-bench:short, home-erp_user-frappe-bench:default, home-erp_user-frappe-bench:long...
+2024-03-14 15:30:23,953 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-14 15:30:23,960 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-14 15:30:23,964 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-14 15:57:24,363 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-14 15:57:24,462 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-14 15:57:24,466 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-14 16:24:41,155 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-14 16:24:42,203 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-14 16:24:42,214 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-14 16:26:52,191 home-erp_user-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.user.user.create_contact', kwargs={'user': <User: akshay.sharma@nestorbird.com>, 'ignore_mandatory': True}, method='frappe.core.doctype.user.user.create_contact', site='erp2.com', user='akshay.sharma@nestorbird.com') (erp2.com::d700725d-8b21-452f-b4e2-620ca60a5a96)
+2024-03-14 16:26:58,381 home-erp_user-frappe-bench:default: Job OK (erp2.com::d700725d-8b21-452f-b4e2-620ca60a5a96)
+2024-03-14 16:26:58,383 Result is kept for 600 seconds
+2024-03-14 16:26:58,412 home-erp_user-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.user.user.update_gravatar', kwargs={'name': 'akshay.sharma@nestorbird.com'}, method='frappe.core.doctype.user.user.update_gravatar', site='erp2.com', user='akshay.sharma@nestorbird.com') (erp2.com::c2760835-570b-4738-bd04-a6d3c58415ce)
+2024-03-14 16:26:59,911 home-erp_user-frappe-bench:default: Job OK (erp2.com::c2760835-570b-4738-bd04-a6d3c58415ce)
+2024-03-14 16:26:59,912 Result is kept for 600 seconds
+2024-03-14 16:57:52,889 Worker rq:worker:1ad7ebfdc7d4478e85be345b3b3eeb8a started with PID 273, version 1.15.1
+2024-03-14 16:57:52,890 Subscribing to channel rq:pubsub:1ad7ebfdc7d4478e85be345b3b3eeb8a
+2024-03-14 16:57:52,891 *** Listening on home-erp_user-frappe-bench:short, home-erp_user-frappe-bench:default, home-erp_user-frappe-bench:long...
+2024-03-14 16:57:52,893 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-14 16:57:52,895 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-14 16:57:52,898 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-14 16:59:17,810 Worker 1ad7ebfdc7d4478e85be345b3b3eeb8a [PID 273]: warm shut down requested
+2024-03-14 16:59:43,202 Worker rq:worker:addc02d16dd54137b0ce36cd4ff3228f started with PID 731, version 1.15.1
+2024-03-14 16:59:43,203 Subscribing to channel rq:pubsub:addc02d16dd54137b0ce36cd4ff3228f
+2024-03-14 16:59:43,206 *** Listening on home-erp_user-frappe-bench:short, home-erp_user-frappe-bench:default, home-erp_user-frappe-bench:long...
+2024-03-14 16:59:43,208 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-14 16:59:43,215 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-14 16:59:43,219 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-14 17:26:43,736 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-14 17:26:43,793 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-14 17:26:43,795 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-14 17:53:44,028 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-14 17:53:44,098 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-14 17:53:44,100 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-14 18:20:44,531 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-14 18:20:44,580 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-14 18:20:44,584 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-14 18:49:59,779 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-14 18:49:59,872 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-14 18:49:59,875 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-15 10:06:23,735 Worker rq:worker:7b7926c0581343849eb0e57156b47506 started with PID 543, version 1.15.1
+2024-03-15 10:06:23,736 Subscribing to channel rq:pubsub:7b7926c0581343849eb0e57156b47506
+2024-03-15 10:06:23,739 *** Listening on home-erp_user-frappe-bench:short, home-erp_user-frappe-bench:default, home-erp_user-frappe-bench:long...
+2024-03-15 10:06:23,740 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-15 10:06:23,743 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-15 10:06:23,747 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-15 10:33:24,265 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-15 10:33:24,297 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-15 10:33:24,301 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-15 11:00:24,604 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-15 11:00:24,696 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-15 11:00:24,700 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-15 11:27:25,069 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-15 11:27:25,121 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-15 11:27:25,124 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-15 11:54:25,533 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-15 11:54:25,583 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-15 11:54:25,585 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-15 12:21:25,920 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-15 12:21:25,976 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-15 12:21:25,979 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-15 12:48:26,490 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-15 12:48:26,576 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-15 12:48:26,580 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-15 13:27:56,181 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-15 13:27:56,342 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-15 13:27:56,347 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-15 13:42:06,559 Worker 7b7926c0581343849eb0e57156b47506 [PID 543]: warm shut down requested
+2024-03-15 14:09:29,677 Worker rq:worker:7148478c8930441691d362a13f6d9daf started with PID 28368, version 1.15.1
+2024-03-15 14:09:29,678 Subscribing to channel rq:pubsub:7148478c8930441691d362a13f6d9daf
+2024-03-15 14:09:29,680 *** Listening on home-erp_user-frappe-bench:short, home-erp_user-frappe-bench:default, home-erp_user-frappe-bench:long...
+2024-03-15 14:09:29,682 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-15 14:09:29,687 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-15 14:09:29,690 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-15 14:36:30,275 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-15 14:36:30,408 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-15 14:36:30,416 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-15 15:03:31,631 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-15 15:03:31,737 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-15 15:03:31,742 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-15 15:16:51,822 Worker 7148478c8930441691d362a13f6d9daf [PID 28368]: warm shut down requested
+2024-03-15 15:17:44,090 Worker rq:worker:b58d98705f4f4f90861e475a787478ba started with PID 68006, version 1.15.1
+2024-03-15 15:17:44,090 Subscribing to channel rq:pubsub:b58d98705f4f4f90861e475a787478ba
+2024-03-15 15:17:44,093 *** Listening on home-erp_user-frappe-bench:short, home-erp_user-frappe-bench:default, home-erp_user-frappe-bench:long...
+2024-03-15 15:17:44,095 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-15 15:17:44,101 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-15 15:17:44,104 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-15 15:21:13,259 Worker b58d98705f4f4f90861e475a787478ba [PID 68006]: warm shut down requested
+2024-03-15 15:23:20,480 Worker rq:worker:8e3a246d14064a859d91ce80f9667955 started with PID 71288, version 1.15.1
+2024-03-15 15:23:20,481 Subscribing to channel rq:pubsub:8e3a246d14064a859d91ce80f9667955
+2024-03-15 15:23:20,484 *** Listening on home-erp_user-frappe-bench:short, home-erp_user-frappe-bench:default, home-erp_user-frappe-bench:long...
+2024-03-15 15:23:20,486 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-15 15:23:20,492 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-15 15:23:20,495 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-15 15:31:17,645 Worker 8e3a246d14064a859d91ce80f9667955 [PID 71288]: warm shut down requested
+2024-03-15 15:32:23,227 Worker rq:worker:9530fca1d1fb4820a5b42122ecd83b09 started with PID 76496, version 1.15.1
+2024-03-15 15:32:23,228 Subscribing to channel rq:pubsub:9530fca1d1fb4820a5b42122ecd83b09
+2024-03-15 15:32:23,233 *** Listening on home-erp_user-frappe-bench:short, home-erp_user-frappe-bench:default, home-erp_user-frappe-bench:long...
+2024-03-15 15:32:23,235 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-15 15:32:23,243 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-15 15:32:23,248 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-15 15:44:24,510 Worker 9530fca1d1fb4820a5b42122ecd83b09 [PID 76496]: warm shut down requested
+2024-03-15 16:04:05,183 Worker rq:worker:e1cc68c7e37d43318547cc3dde10dcaa started with PID 93930, version 1.15.1
+2024-03-15 16:04:05,183 Subscribing to channel rq:pubsub:e1cc68c7e37d43318547cc3dde10dcaa
+2024-03-15 16:04:05,189 *** Listening on home-erp_user-frappe-bench:short, home-erp_user-frappe-bench:default, home-erp_user-frappe-bench:long...
+2024-03-15 16:04:05,191 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-15 16:04:05,196 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-15 16:04:05,200 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-15 16:06:45,701 home-erp_user-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Module Def', 'name': 'studentdetails'}, method='frappe.model.delete_doc.delete_dynamic_links', site='erp2.com', user='Administrator') (erp2.com::a7395aaf-95f9-44ca-80bb-f9ba5c6e18dc)
+2024-03-15 16:06:46,599 home-erp_user-frappe-bench:default: Job OK (erp2.com::a7395aaf-95f9-44ca-80bb-f9ba5c6e18dc)
+2024-03-15 16:06:46,601 Result is kept for 600 seconds
+2024-03-15 16:06:46,633 home-erp_user-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Module Def', 'name': 'student module'}, method='frappe.model.delete_doc.delete_dynamic_links', site='erp2.com', user='Administrator') (erp2.com::b319594e-3361-4878-b5ce-77bb2b5cb2d0)
+2024-03-15 16:06:47,191 home-erp_user-frappe-bench:default: Job OK (erp2.com::b319594e-3361-4878-b5ce-77bb2b5cb2d0)
+2024-03-15 16:06:47,192 Result is kept for 600 seconds
+2024-03-15 16:20:17,523 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-15 16:20:17,609 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-15 16:20:17,614 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-15 16:47:18,222 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-15 16:47:18,377 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-15 16:47:18,382 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-15 17:14:19,157 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-15 17:14:19,261 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-15 17:14:19,265 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-15 17:39:06,359 Worker e1cc68c7e37d43318547cc3dde10dcaa [PID 93930]: warm shut down requested
+2024-03-15 17:45:22,990 Worker rq:worker:c2d4448f8d7d495ab9b03287da40cb4d started with PID 48720, version 1.15.1
+2024-03-15 17:45:22,992 Subscribing to channel rq:pubsub:c2d4448f8d7d495ab9b03287da40cb4d
+2024-03-15 17:45:22,995 *** Listening on home-erp_user-frappe-bench:short, home-erp_user-frappe-bench:default, home-erp_user-frappe-bench:long...
+2024-03-15 17:45:22,996 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-15 17:45:23,000 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-15 17:45:23,003 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-15 18:12:50,064 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-15 18:12:50,162 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-15 18:12:50,165 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-15 18:39:09,075 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-15 18:39:10,803 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-15 18:39:10,813 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-15 18:55:21,139 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-15 18:55:21,238 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-15 18:55:21,243 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-16 09:48:08,234 Worker rq:worker:61138c236a554443bb3c7c6e57d4b984 started with PID 548, version 1.15.1
+2024-03-16 09:48:08,236 Subscribing to channel rq:pubsub:61138c236a554443bb3c7c6e57d4b984
+2024-03-16 09:48:08,240 *** Listening on home-erp_user-frappe-bench:short, home-erp_user-frappe-bench:default, home-erp_user-frappe-bench:long...
+2024-03-16 09:48:08,241 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-16 09:48:08,244 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-16 09:48:08,248 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-16 13:08:27,080 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-16 13:08:27,454 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-16 13:08:27,463 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-16 16:16:26,984 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-16 16:16:26,989 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-16 16:16:27,012 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-16 16:57:40,665 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-16 16:57:40,668 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-16 16:57:40,672 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-16 18:52:12,921 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-16 18:52:12,926 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-16 18:52:12,930 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-16 19:19:13,672 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-16 19:19:13,791 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-16 19:19:13,798 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-16 19:43:38,823 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-16 19:43:40,726 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-16 19:43:40,732 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-16 21:56:02,506 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-16 21:56:02,852 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-16 21:56:02,860 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-16 22:48:21,061 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-16 22:48:22,701 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-16 22:48:22,713 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-16 23:15:23,153 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-16 23:15:23,211 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-16 23:15:23,213 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-16 23:42:23,366 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-16 23:42:23,422 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-16 23:42:23,424 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-17 00:01:28,719 home-erp_user-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'student', 'name': 'YYYY-MM-DATE00001'}, method='frappe.model.delete_doc.delete_dynamic_links', site='erp2.com', user='Administrator') (erp2.com::fcdc534f-2f54-4371-b81d-06324062b7bb)
+2024-03-17 00:01:29,356 home-erp_user-frappe-bench:default: Job OK (erp2.com::fcdc534f-2f54-4371-b81d-06324062b7bb)
+2024-03-17 00:01:29,356 Result is kept for 600 seconds
+2024-03-17 00:08:14,506 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-17 00:08:14,515 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-17 00:08:14,517 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-17 00:45:27,658 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-17 04:45:23,294 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-17 04:45:23,302 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-17 08:34:05,212 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-17 08:34:05,218 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-17 08:34:05,222 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-17 10:00:35,830 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-17 10:00:35,834 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-17 10:00:35,888 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-17 10:27:36,361 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-17 10:27:36,479 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-17 10:27:36,483 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-17 10:54:36,901 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-17 10:54:37,001 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-17 10:54:37,004 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-17 11:43:42,014 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-17 11:43:42,158 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-17 11:43:42,185 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-17 12:10:42,764 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-17 12:10:42,854 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-17 12:10:42,857 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-17 15:45:45,038 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-17 15:45:46,381 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-17 15:45:46,386 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-17 17:04:34,433 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-17 17:04:34,545 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-17 17:04:34,548 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-17 17:31:35,153 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-17 17:31:35,306 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-17 17:31:35,311 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-17 17:53:56,652 home-erp_user-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Student Doctype', 'name': 'STU-YYYY-MM-#####00001'}, method='frappe.model.delete_doc.delete_dynamic_links', site='erp2.com', user='Administrator') (erp2.com::421c38c8-742b-4e04-917b-f8c541b00079)
+2024-03-17 17:53:58,416 home-erp_user-frappe-bench:default: Job OK (erp2.com::421c38c8-742b-4e04-917b-f8c541b00079)
+2024-03-17 17:53:58,416 Result is kept for 600 seconds
+2024-03-17 17:53:58,434 home-erp_user-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Student Doctype', 'name': '4b12fa7d01'}, method='frappe.model.delete_doc.delete_dynamic_links', site='erp2.com', user='Administrator') (erp2.com::c8f253b2-4730-4bd4-aa17-a9179f519dcd)
+2024-03-17 17:53:58,846 home-erp_user-frappe-bench:default: Job OK (erp2.com::c8f253b2-4730-4bd4-aa17-a9179f519dcd)
+2024-03-17 17:53:58,846 Result is kept for 600 seconds
+2024-03-18 10:06:35,579 Worker rq:worker:2fc14823b2604884a97826dba8478f33 started with PID 546, version 1.15.1
+2024-03-18 10:06:35,581 Subscribing to channel rq:pubsub:2fc14823b2604884a97826dba8478f33
+2024-03-18 10:06:35,584 *** Listening on home-erp_user-frappe-bench:short, home-erp_user-frappe-bench:default, home-erp_user-frappe-bench:long...
+2024-03-18 10:06:35,586 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-18 10:06:35,589 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-18 10:06:35,593 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-18 10:36:30,323 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-18 10:36:30,414 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-18 10:36:30,419 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-18 10:43:37,608 Worker 2fc14823b2604884a97826dba8478f33 [PID 546]: warm shut down requested
+2024-03-18 10:56:31,302 Worker rq:worker:e11e01d4a86c4306abb1d48e75084ccd started with PID 12069, version 1.15.1
+2024-03-18 10:56:31,304 Subscribing to channel rq:pubsub:e11e01d4a86c4306abb1d48e75084ccd
+2024-03-18 10:56:31,307 *** Listening on home-erp_user-frappe-bench:short, home-erp_user-frappe-bench:default, home-erp_user-frappe-bench:long...
+2024-03-18 10:56:31,310 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-18 10:56:31,316 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-18 10:56:31,320 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-18 11:10:21,523 Worker e11e01d4a86c4306abb1d48e75084ccd [PID 12069]: warm shut down requested
+2024-03-18 11:12:46,538 Worker rq:worker:f752d0baa2b543bc8e01ac729aa80cb9 started with PID 20450, version 1.15.1
+2024-03-18 11:12:46,538 Subscribing to channel rq:pubsub:f752d0baa2b543bc8e01ac729aa80cb9
+2024-03-18 11:12:46,544 *** Listening on home-erp_user-frappe-bench:short, home-erp_user-frappe-bench:default, home-erp_user-frappe-bench:long...
+2024-03-18 11:12:46,545 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-18 11:12:46,553 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-18 11:12:46,557 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-18 11:39:47,005 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-18 11:39:47,152 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-18 11:39:47,156 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-18 12:04:30,651 home-erp_user-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Student Doctype', 'name': 'STU-YYYY-MM-#####00002'}, method='frappe.model.delete_doc.delete_dynamic_links', site='erp2.com', user='Administrator') (erp2.com::91ee860c-2d42-4155-ab6f-55d6870774e4)
+2024-03-18 12:04:31,912 home-erp_user-frappe-bench:default: Job OK (erp2.com::91ee860c-2d42-4155-ab6f-55d6870774e4)
+2024-03-18 12:04:31,913 Result is kept for 600 seconds
+2024-03-18 12:04:31,933 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-18 12:04:31,943 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-18 12:04:31,946 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-18 12:04:31,952 home-erp_user-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Student Doctype', 'name': 'STU-YYYY-MM-#####00001'}, method='frappe.model.delete_doc.delete_dynamic_links', site='erp2.com', user='Administrator') (erp2.com::6868f51c-5063-43e9-a176-13771b0d982b)
+2024-03-18 12:04:32,287 home-erp_user-frappe-bench:default: Job OK (erp2.com::6868f51c-5063-43e9-a176-13771b0d982b)
+2024-03-18 12:04:32,287 Result is kept for 600 seconds
+2024-03-18 12:31:32,576 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-18 12:31:32,662 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-18 12:31:32,666 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-18 12:58:33,235 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-18 12:58:33,325 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-18 12:58:33,329 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-18 13:41:26,223 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-18 13:41:27,791 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-18 13:41:27,796 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-18 13:46:08,455 home-erp_user-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.utils.global_search.rebuild_for_doctype', kwargs={'doctype': 'DocType'}, method='frappe.utils.global_search.rebuild_for_doctype', site='erp2.com', user='Administrator') (erp2.com::5af72b5a-c94d-4b3d-8928-c8db17d39d99)
+2024-03-18 13:46:10,650 home-erp_user-frappe-bench:default: Job OK (erp2.com::5af72b5a-c94d-4b3d-8928-c8db17d39d99)
+2024-03-18 13:46:10,650 Result is kept for 600 seconds
+2024-03-18 14:01:37,987 Worker f752d0baa2b543bc8e01ac729aa80cb9 [PID 20450]: warm shut down requested
+2024-03-18 14:02:13,976 Worker rq:worker:2c90f90ad2d14546b16ae693715086dc started with PID 96444, version 1.15.1
+2024-03-18 14:02:13,977 Subscribing to channel rq:pubsub:2c90f90ad2d14546b16ae693715086dc
+2024-03-18 14:02:13,979 *** Listening on home-erp_user-frappe-bench:short, home-erp_user-frappe-bench:default, home-erp_user-frappe-bench:long...
+2024-03-18 14:02:13,980 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-18 14:02:13,986 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-18 14:02:13,989 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-18 14:13:19,863 Worker 2c90f90ad2d14546b16ae693715086dc [PID 96444]: warm shut down requested
+2024-03-18 14:23:56,873 Worker rq:worker:50f522a1cc3a4042815684d1a71ab373 started with PID 8275, version 1.15.1
+2024-03-18 14:23:56,873 Subscribing to channel rq:pubsub:50f522a1cc3a4042815684d1a71ab373
+2024-03-18 14:23:56,876 *** Listening on home-erp_user-frappe-bench:short, home-erp_user-frappe-bench:default, home-erp_user-frappe-bench:long...
+2024-03-18 14:23:56,877 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-18 14:23:56,879 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-18 14:23:56,881 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-18 14:40:21,427 home-erp_user-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Student Doctype', 'name': '00001'}, method='frappe.model.delete_doc.delete_dynamic_links', site='erp2.com', user='Administrator') (erp2.com::fba55c62-843a-460e-9693-6d85c413118f)
+2024-03-18 14:40:22,339 home-erp_user-frappe-bench:default: Job OK (erp2.com::fba55c62-843a-460e-9693-6d85c413118f)
+2024-03-18 14:40:22,340 Result is kept for 600 seconds
+2024-03-18 14:40:22,353 home-erp_user-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Student Doctype', 'name': '"2024-03-18-0004"'}, method='frappe.model.delete_doc.delete_dynamic_links', site='erp2.com', user='Administrator') (erp2.com::fa3415d5-6166-4361-b219-5b9af1cb5f5f)
+2024-03-18 14:40:22,550 home-erp_user-frappe-bench:default: Job OK (erp2.com::fa3415d5-6166-4361-b219-5b9af1cb5f5f)
+2024-03-18 14:40:22,551 Result is kept for 600 seconds
+2024-03-18 14:40:22,556 home-erp_user-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Student Doctype', 'name': '"2024-03-18-0003"'}, method='frappe.model.delete_doc.delete_dynamic_links', site='erp2.com', user='Administrator') (erp2.com::b95292e2-0528-4239-9e6a-329096af45b5)
+2024-03-18 14:40:22,691 home-erp_user-frappe-bench:default: Job OK (erp2.com::b95292e2-0528-4239-9e6a-329096af45b5)
+2024-03-18 14:40:22,691 Result is kept for 600 seconds
+2024-03-18 14:53:36,156 home-erp_user-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.utils.global_search.rebuild_for_doctype', kwargs={'doctype': 'DocType'}, method='frappe.utils.global_search.rebuild_for_doctype', site='erp2.com', user='Administrator') (erp2.com::fb633b91-0eda-40be-a7ca-300fedf615c9)
+2024-03-18 14:53:38,047 home-erp_user-frappe-bench:default: Job OK (erp2.com::fb633b91-0eda-40be-a7ca-300fedf615c9)
+2024-03-18 14:53:38,047 Result is kept for 600 seconds
+2024-03-18 14:53:38,055 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-18 14:53:38,059 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-18 14:53:38,061 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-18 15:20:38,318 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-18 15:20:38,364 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-18 15:20:38,367 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-18 15:47:38,763 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-18 15:47:38,828 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-18 15:47:38,831 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-18 16:14:39,356 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-18 16:14:39,432 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-18 16:14:39,436 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-18 16:41:39,809 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-18 16:41:39,878 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-18 16:41:39,882 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-18 16:50:37,190 Worker 50f522a1cc3a4042815684d1a71ab373 [PID 8275]: warm shut down requested
+2024-03-18 17:00:05,097 Worker rq:worker:f7e15e9ecd374ce189de59e2668bc86a started with PID 92381, version 1.15.1
+2024-03-18 17:00:05,098 Subscribing to channel rq:pubsub:f7e15e9ecd374ce189de59e2668bc86a
+2024-03-18 17:00:05,101 *** Listening on home-erp_user-frappe-bench:short, home-erp_user-frappe-bench:default, home-erp_user-frappe-bench:long...
+2024-03-18 17:00:05,103 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-18 17:00:05,109 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-18 17:00:05,112 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-18 17:27:05,941 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-18 17:27:06,091 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-18 17:27:06,097 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-18 17:54:06,739 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-18 17:54:06,837 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-18 17:54:06,841 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-18 18:21:07,367 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-18 18:21:07,458 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-18 18:21:07,462 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-18 18:48:07,822 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-18 18:48:07,917 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-18 18:48:07,921 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-18 21:41:22,758 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-18 21:41:23,238 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-18 21:41:23,242 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-18 23:38:34,772 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-18 23:38:34,787 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-18 23:38:34,790 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-19 00:05:35,302 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-19 00:05:35,414 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-19 00:05:35,421 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-19 10:06:51,495 Worker rq:worker:c17d71bb1ddf458d9ae01530e0815efb started with PID 547, version 1.15.1
+2024-03-19 10:06:51,497 Subscribing to channel rq:pubsub:c17d71bb1ddf458d9ae01530e0815efb
+2024-03-19 10:06:51,499 *** Listening on home-erp_user-frappe-bench:short, home-erp_user-frappe-bench:default, home-erp_user-frappe-bench:long...
+2024-03-19 10:06:51,500 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-19 10:06:51,502 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-19 10:06:51,503 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-19 10:39:31,043 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-19 10:39:31,528 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-19 10:39:31,534 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-19 11:06:32,020 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-19 11:06:32,076 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-19 11:06:32,078 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-19 11:33:32,314 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-19 11:33:32,344 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-19 11:33:32,345 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-19 11:42:31,223 home-erp_user-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Student detail', 'name': '"2024-03-19-0010"'}, method='frappe.model.delete_doc.delete_dynamic_links', site='erp2.com', user='Administrator') (erp2.com::081b201f-e72e-4d09-ae41-5ab2d11200e5)
+2024-03-19 11:42:32,484 home-erp_user-frappe-bench:default: Job OK (erp2.com::081b201f-e72e-4d09-ae41-5ab2d11200e5)
+2024-03-19 11:42:32,485 Result is kept for 600 seconds
+2024-03-19 11:49:17,678 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-19 11:49:17,746 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-19 11:49:17,751 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-19 12:16:18,031 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-19 12:16:18,090 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-19 12:16:18,093 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-19 12:43:18,320 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-19 12:43:18,380 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-19 12:43:18,382 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-19 13:10:18,814 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-19 13:10:18,887 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-19 13:10:18,890 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-19 13:38:14,871 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-19 13:38:16,719 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-19 13:38:16,726 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-19 14:03:23,674 Worker c17d71bb1ddf458d9ae01530e0815efb [PID 547]: warm shut down requested
+2024-03-19 14:05:18,219 Worker rq:worker:7bdeae4eb9c1423fbe10a20813c6557c started with PID 16045, version 1.15.1
+2024-03-19 14:05:18,219 Subscribing to channel rq:pubsub:7bdeae4eb9c1423fbe10a20813c6557c
+2024-03-19 14:05:18,222 *** Listening on home-erp_user-frappe-bench:short, home-erp_user-frappe-bench:default, home-erp_user-frappe-bench:long...
+2024-03-19 14:05:18,225 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-19 14:05:18,236 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-19 14:05:18,240 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-19 14:32:18,803 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-19 14:32:18,920 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-19 14:32:18,927 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-19 14:59:19,399 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-19 14:59:19,509 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-19 14:59:19,514 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-19 15:26:19,900 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-19 15:26:19,983 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-19 15:26:19,988 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-19 15:53:20,441 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-19 15:53:20,501 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-19 15:53:20,504 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-19 16:20:21,026 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-19 16:20:21,104 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-19 16:20:21,109 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-19 16:47:21,830 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-19 16:47:21,930 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-19 16:47:21,935 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-19 17:14:22,743 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-19 17:14:22,848 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-19 17:14:22,853 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-19 17:41:23,471 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-19 17:41:23,579 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-19 17:41:23,585 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-19 18:08:24,121 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-19 18:08:24,224 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-19 18:08:24,229 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-19 18:35:24,821 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-19 18:35:24,887 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-19 18:35:24,890 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-19 20:59:12,403 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-19 20:59:12,833 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-19 20:59:12,838 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-19 21:26:13,308 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-19 21:26:13,388 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-19 21:26:13,392 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-19 21:46:10,717 home-erp_user-frappe-bench:long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='<function build_index_for_all_routes at 0x7f7b13776160>', kwargs={}, method=<function build_index_for_all_routes at 0x7f7b13776160>, site='erp2.com', user='Administrator') (erp2.com::d3beb722-fbcf-494f-b941-92da026074df)
+Retrieving Routes                   : [=                                       ] 2%Retrieving Routes                   : [==                                      ] 5%Retrieving Routes                   : [===                                     ] 8%Retrieving Routes                   : [====                                    ] 11%Retrieving Routes                   : [=====                                   ] 14%Retrieving Routes                   : [=======                                 ] 17%Retrieving Routes                   : [========                                ] 20%Retrieving Routes                   : [=========                               ] 23%Retrieving Routes                   : [==========                              ] 26%Retrieving Routes                   : [===========                             ] 29%Retrieving Routes                   : [============                            ] 32%Retrieving Routes                   : [==============                          ] 35%Retrieving Routes                   : [===============                         ] 38%Retrieving Routes                   : [================                        ] 41%Retrieving Routes                   : [=================                       ] 44%Retrieving Routes                   : [==================                      ] 47%Retrieving Routes                   : [====================                    ] 50%Retrieving Routes                   : [=====================                   ] 52%Retrieving Routes                   : [======================                  ] 55%Retrieving Routes                   : [=======================                 ] 58%Retrieving Routes                   : [========================                ] 61%Retrieving Routes                   : [=========================               ] 64%Retrieving Routes                   : [===========================             ] 67%Retrieving Routes                   : [============================            ] 70%Retrieving Routes                   : [=============================           ] 73%Retrieving Routes                   : [==============================          ] 76%Retrieving Routes                   : [===============================         ] 79%Retrieving Routes                   : [================================        ] 82%Retrieving Routes                   : [==================================      ] 85%Retrieving Routes                   : [===================================     ] 88%Retrieving Routes                   : [====================================    ] 91%Retrieving Routes                   : [=====================================   ] 94%Retrieving Routes                   : [======================================  ] 97%Retrieving Routes                   : [========================================] 100%
+Building Index                      : [=                                       ] 2%Building Index                      : [==                                      ] 5%Building Index                      : [===                                     ] 8%Building Index                      : [====                                    ] 11%Building Index                      : [=====                                   ] 14%Building Index                      : [=======                                 ] 17%Building Index                      : [========                                ] 20%Building Index                      : [=========                               ] 23%Building Index                      : [==========                              ] 26%Building Index                      : [===========                             ] 29%Building Index                      : [============                            ] 32%Building Index                      : [==============                          ] 35%Building Index                      : [===============                         ] 38%Building Index                      : [================                        ] 41%Building Index                      : [=================                       ] 44%Building Index                      : [==================                      ] 47%Building Index                      : [====================                    ] 50%Building Index                      : [=====================                   ] 52%Building Index                      : [======================                  ] 55%Building Index                      : [=======================                 ] 58%Building Index                      : [========================                ] 61%Building Index                      : [=========================               ] 64%Building Index                      : [===========================             ] 67%Building Index                      : [============================            ] 70%Building Index                      : [=============================           ] 73%Building Index                      : [==============================          ] 76%Building Index                      : [===============================         ] 79%Building Index                      : [================================        ] 82%Building Index                      : [==================================      ] 85%Building Index                      : [===================================     ] 88%Building Index                      : [====================================    ] 91%Building Index                      : [=====================================   ] 94%Building Index                      : [======================================  ] 97%Building Index                      : [========================================] 100%2024-03-19 21:46:22,402 home-erp_user-frappe-bench:long: Job OK (erp2.com::d3beb722-fbcf-494f-b941-92da026074df)
+2024-03-19 21:46:22,403 Result is kept for 600 seconds
+2024-03-19 21:53:07,586 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-19 21:53:07,683 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-19 21:53:07,687 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-19 21:55:23,427 home-erp_user-frappe-bench:long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='<function build_index_for_all_routes at 0x7fc9cf782160>', kwargs={}, method=<function build_index_for_all_routes at 0x7fc9cf782160>, site='erp2.com', user='Administrator') (erp2.com::a43f7ffb-5905-4dce-90d1-f5fbd45fcfc6)
+Retrieving Routes                   : [=                                       ] 2%Retrieving Routes                   : [==                                      ] 5%Retrieving Routes                   : [===                                     ] 8%Retrieving Routes                   : [====                                    ] 11%Retrieving Routes                   : [=====                                   ] 14%Retrieving Routes                   : [=======                                 ] 17%Retrieving Routes                   : [========                                ] 20%Retrieving Routes                   : [=========                               ] 23%Retrieving Routes                   : [==========                              ] 26%Retrieving Routes                   : [===========                             ] 29%Retrieving Routes                   : [============                            ] 32%Retrieving Routes                   : [==============                          ] 35%Retrieving Routes                   : [===============                         ] 38%Retrieving Routes                   : [================                        ] 41%Retrieving Routes                   : [=================                       ] 44%Retrieving Routes                   : [==================                      ] 47%Retrieving Routes                   : [====================                    ] 50%Retrieving Routes                   : [=====================                   ] 52%Retrieving Routes                   : [======================                  ] 55%Retrieving Routes                   : [=======================                 ] 58%Retrieving Routes                   : [========================                ] 61%Retrieving Routes                   : [=========================               ] 64%Retrieving Routes                   : [===========================             ] 67%Retrieving Routes                   : [============================            ] 70%Retrieving Routes                   : [=============================           ] 73%Retrieving Routes                   : [==============================          ] 76%Retrieving Routes                   : [===============================         ] 79%Retrieving Routes                   : [================================        ] 82%Retrieving Routes                   : [==================================      ] 85%Retrieving Routes                   : [===================================     ] 88%Retrieving Routes                   : [====================================    ] 91%Retrieving Routes                   : [=====================================   ] 94%Retrieving Routes                   : [======================================  ] 97%Retrieving Routes                   : [========================================] 100%
+Building Index                      : [=                                       ] 2%Building Index                      : [==                                      ] 5%Building Index                      : [===                                     ] 8%Building Index                      : [====                                    ] 11%Building Index                      : [=====                                   ] 14%Building Index                      : [=======                                 ] 17%Building Index                      : [========                                ] 20%Building Index                      : [=========                               ] 23%Building Index                      : [==========                              ] 26%Building Index                      : [===========                             ] 29%Building Index                      : [============                            ] 32%Building Index                      : [==============                          ] 35%Building Index                      : [===============                         ] 38%Building Index                      : [================                        ] 41%Building Index                      : [=================                       ] 44%Building Index                      : [==================                      ] 47%Building Index                      : [====================                    ] 50%Building Index                      : [=====================                   ] 52%Building Index                      : [======================                  ] 55%Building Index                      : [=======================                 ] 58%Building Index                      : [========================                ] 61%Building Index                      : [=========================               ] 64%Building Index                      : [===========================             ] 67%Building Index                      : [============================            ] 70%Building Index                      : [=============================           ] 73%Building Index                      : [==============================          ] 76%Building Index                      : [===============================         ] 79%Building Index                      : [================================        ] 82%Building Index                      : [==================================      ] 85%Building Index                      : [===================================     ] 88%Building Index                      : [====================================    ] 91%Building Index                      : [=====================================   ] 94%Building Index                      : [======================================  ] 97%Building Index                      : [========================================] 100%2024-03-19 21:55:36,421 home-erp_user-frappe-bench:long: Job OK (erp2.com::a43f7ffb-5905-4dce-90d1-f5fbd45fcfc6)
+2024-03-19 21:55:36,423 Result is kept for 600 seconds
+2024-03-19 22:09:06,838 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-19 22:09:06,990 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-19 22:09:06,994 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-19 22:21:58,392 home-erp_user-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.user.user.create_contact', kwargs={'user': <User: tt@yopmail.com>, 'ignore_mandatory': True}, method='frappe.core.doctype.user.user.create_contact', site='erp2.com', user='Administrator') (erp2.com::ae71674e-0b70-4d7d-a087-ca6744c5ba7a)
+2024-03-19 22:22:09,566 home-erp_user-frappe-bench:default: Job OK (erp2.com::ae71674e-0b70-4d7d-a087-ca6744c5ba7a)
+2024-03-19 22:22:09,567 Result is kept for 600 seconds
+2024-03-19 22:22:09,612 home-erp_user-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.user.user.update_gravatar', kwargs={'name': 'tt@yopmail.com'}, method='frappe.core.doctype.user.user.update_gravatar', site='erp2.com', user='Administrator') (erp2.com::8ed5a662-2ca4-4272-9c3d-97c94e561c16)
+2024-03-19 22:22:11,392 home-erp_user-frappe-bench:default: Job OK (erp2.com::8ed5a662-2ca4-4272-9c3d-97c94e561c16)
+2024-03-19 22:22:11,394 Result is kept for 600 seconds
+2024-03-19 22:35:41,741 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-19 22:35:41,865 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-19 22:35:41,872 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-19 23:02:43,370 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-19 23:02:43,484 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-19 23:02:43,489 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-19 23:21:56,382 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-19 23:21:57,847 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-19 23:21:57,895 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-19 23:45:10,721 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-19 23:45:11,215 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-19 23:45:11,222 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-20 10:51:23,723 Worker rq:worker:4fbb45ba2fbc4482a124ef41aca1b8d7 started with PID 556, version 1.15.1
+2024-03-20 10:51:23,725 Subscribing to channel rq:pubsub:4fbb45ba2fbc4482a124ef41aca1b8d7
+2024-03-20 10:51:23,728 *** Listening on home-erp_user-frappe-bench:short, home-erp_user-frappe-bench:default, home-erp_user-frappe-bench:long...
+2024-03-20 10:51:23,729 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-20 10:51:23,733 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-20 10:51:23,736 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-20 11:19:25,318 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-20 11:19:25,461 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-20 11:19:25,468 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-20 11:46:25,928 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-20 11:46:25,985 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-20 11:46:25,987 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-20 12:13:26,358 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-20 12:13:26,417 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-20 12:13:26,419 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-20 12:41:10,340 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-20 12:41:10,438 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-20 12:41:10,444 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-20 12:44:35,021 Worker 4fbb45ba2fbc4482a124ef41aca1b8d7 [PID 556]: warm shut down requested
+2024-03-20 13:03:40,565 Worker rq:worker:d65a4287f61744f1b10b04dc61499470 started with PID 50865, version 1.15.1
+2024-03-20 13:03:40,567 Subscribing to channel rq:pubsub:d65a4287f61744f1b10b04dc61499470
+2024-03-20 13:03:40,571 *** Listening on home-erp_user-frappe-bench:short, home-erp_user-frappe-bench:default, home-erp_user-frappe-bench:long...
+2024-03-20 13:03:40,573 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-20 13:03:40,580 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-20 13:03:40,583 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-20 13:34:24,128 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-20 13:34:26,643 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-20 13:34:26,659 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-20 14:01:27,165 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-20 14:01:27,238 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-20 14:01:27,240 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-20 14:28:27,645 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-20 14:28:27,722 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-20 14:28:27,725 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-20 14:55:28,092 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-20 14:55:28,151 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-20 14:55:28,153 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-20 15:22:28,481 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-20 15:22:28,541 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-20 15:22:28,543 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-20 15:49:29,441 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-20 15:49:29,499 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-20 15:49:29,501 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-20 16:14:44,711 home-erp_user-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.user.user.create_contact', kwargs={'user': <User: akshaysharmaxyz12@gmail.com>, 'ignore_mandatory': True}, method='frappe.core.doctype.user.user.create_contact', site='erp2.com', user='Administrator') (erp2.com::7e709ca4-ebb0-438b-a3ee-21f115798fda)
+2024-03-20 16:14:49,682 home-erp_user-frappe-bench:default: Job OK (erp2.com::7e709ca4-ebb0-438b-a3ee-21f115798fda)
+2024-03-20 16:14:49,684 Result is kept for 600 seconds
+2024-03-20 16:14:49,700 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-20 16:14:49,705 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-20 16:14:49,706 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-20 16:14:49,709 home-erp_user-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.user.user.update_gravatar', kwargs={'name': 'akshaysharmaxyz12@gmail.com'}, method='frappe.core.doctype.user.user.update_gravatar', site='erp2.com', user='Administrator') (erp2.com::00d620bf-0b1a-4813-b781-9f763ccacf83)
+2024-03-20 16:14:50,319 home-erp_user-frappe-bench:default: Job OK (erp2.com::00d620bf-0b1a-4813-b781-9f763ccacf83)
+2024-03-20 16:14:50,320 Result is kept for 600 seconds
+2024-03-20 16:32:33,825 home-erp_user-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.utils.global_search.rebuild_for_doctype', kwargs={'doctype': 'DocType'}, method='frappe.utils.global_search.rebuild_for_doctype', site='erp2.com', user='Administrator') (erp2.com::057cf39d-c009-4a4d-a4ff-c99826774379)
+2024-03-20 16:32:37,648 home-erp_user-frappe-bench:default: Job OK (erp2.com::057cf39d-c009-4a4d-a4ff-c99826774379)
+2024-03-20 16:32:37,649 Result is kept for 600 seconds
+2024-03-20 16:39:22,783 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-20 16:39:22,850 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-20 16:39:22,855 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-20 17:06:23,631 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-20 17:06:23,747 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-20 17:06:23,752 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-20 17:33:24,389 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-20 17:33:24,490 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-20 17:33:24,495 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-20 18:00:25,449 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-20 18:00:25,571 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-20 18:00:25,575 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-20 18:25:16,482 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-20 18:25:16,666 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-20 18:25:16,674 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-20 18:52:17,969 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-20 18:52:18,080 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-20 18:52:18,084 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-20 21:40:03,804 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-20 21:40:03,973 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-20 21:40:03,977 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-20 22:07:04,647 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-20 22:07:04,709 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-20 22:07:04,711 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-20 22:34:05,213 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-20 22:34:05,305 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-20 22:34:05,315 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-21 02:03:22,739 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-21 02:03:22,838 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-21 02:03:22,855 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-21 10:06:18,522 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-21 10:06:18,766 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-21 10:06:18,769 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-21 10:33:43,923 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-21 10:33:44,025 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-21 10:33:44,030 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-21 11:00:44,683 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-21 11:00:44,784 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-21 11:00:44,790 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-21 11:27:45,949 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-21 11:27:46,008 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-21 11:27:46,011 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-21 11:54:46,700 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-21 11:54:46,768 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-21 11:54:46,770 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-21 12:21:47,451 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-21 12:21:47,511 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-21 12:21:47,513 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-21 12:31:32,062 Worker d65a4287f61744f1b10b04dc61499470 [PID 50865]: warm shut down requested
+2024-03-21 12:59:51,132 Worker rq:worker:53ff429d4fe0467aa264ac104f7e7abf started with PID 37185, version 1.15.1
+2024-03-21 12:59:51,134 Subscribing to channel rq:pubsub:53ff429d4fe0467aa264ac104f7e7abf
+2024-03-21 12:59:51,138 *** Listening on home-erp_user-frappe-bench:short, home-erp_user-frappe-bench:default, home-erp_user-frappe-bench:long...
+2024-03-21 12:59:51,140 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-21 12:59:51,147 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-21 12:59:51,150 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-21 13:31:46,245 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-21 13:31:46,908 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-21 13:31:46,917 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-21 13:58:47,333 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-21 13:58:47,396 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-21 13:58:47,398 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-21 14:08:13,250 Worker 53ff429d4fe0467aa264ac104f7e7abf [PID 37185]: warm shut down requested
+2024-03-21 14:18:48,382 Worker rq:worker:552b5b0211f149ccbed3aca5d1d1fa47 started with PID 60351, version 1.15.1
+2024-03-21 14:18:48,382 Subscribing to channel rq:pubsub:552b5b0211f149ccbed3aca5d1d1fa47
+2024-03-21 14:18:48,385 *** Listening on home-erp_user-frappe-bench:short, home-erp_user-frappe-bench:default, home-erp_user-frappe-bench:long...
+2024-03-21 14:18:48,387 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-21 14:18:48,390 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-21 14:18:48,391 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-21 14:19:01,272 Worker 552b5b0211f149ccbed3aca5d1d1fa47 [PID 60351]: warm shut down requested
+2024-03-21 14:19:01,276 Unsubscribing from channel rq:pubsub:552b5b0211f149ccbed3aca5d1d1fa47
+2024-03-21 14:39:32,619 Worker rq:worker:178e1808d4ad4d4685cdd97b31609342 started with PID 68372, version 1.15.1
+2024-03-21 14:39:32,621 Subscribing to channel rq:pubsub:178e1808d4ad4d4685cdd97b31609342
+2024-03-21 14:39:32,627 *** Listening on home-erp_user-frappe-bench:short, home-erp_user-frappe-bench:default, home-erp_user-frappe-bench:long...
+2024-03-21 14:39:32,630 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-21 14:39:32,635 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-21 14:39:32,639 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-21 14:39:38,352 Worker 178e1808d4ad4d4685cdd97b31609342 [PID 68372]: warm shut down requested
+2024-03-21 15:07:12,483 Worker rq:worker:29c00570b7fa47a18fd8649e65be655e started with PID 81531, version 1.15.1
+2024-03-21 15:07:12,491 Subscribing to channel rq:pubsub:29c00570b7fa47a18fd8649e65be655e
+2024-03-21 15:07:12,497 *** Listening on home-erp_user-frappe-bench:short, home-erp_user-frappe-bench:default, home-erp_user-frappe-bench:long...
+2024-03-21 15:07:12,500 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-21 15:07:12,510 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-21 15:07:12,515 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-21 15:34:13,106 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-21 15:34:13,216 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-21 15:34:13,223 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-21 15:40:31,605 Worker 29c00570b7fa47a18fd8649e65be655e [PID 81531]: warm shut down requested
+2024-03-21 15:41:50,327 Worker rq:worker:2fc295b969634543a52974559305a81d started with PID 97393, version 1.15.1
+2024-03-21 15:41:50,327 Subscribing to channel rq:pubsub:2fc295b969634543a52974559305a81d
+2024-03-21 15:41:50,333 *** Listening on home-erp_user-frappe-bench:short, home-erp_user-frappe-bench:default, home-erp_user-frappe-bench:long...
+2024-03-21 15:41:50,335 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-21 15:41:50,340 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-21 15:41:50,345 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-21 16:08:51,076 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-21 16:08:51,239 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-21 16:08:51,252 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-21 16:35:51,840 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-21 16:35:51,911 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-21 16:35:51,914 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-21 16:44:53,835 Worker 2fc295b969634543a52974559305a81d [PID 97393]: warm shut down requested
+2024-03-21 17:00:14,880 Worker rq:worker:1e6b4a89ef244517a108c6fcb06f96d6 started with PID 34215, version 1.15.1
+2024-03-21 17:00:14,882 Subscribing to channel rq:pubsub:1e6b4a89ef244517a108c6fcb06f96d6
+2024-03-21 17:00:14,886 *** Listening on home-erp_user-frappe-bench:short, home-erp_user-frappe-bench:default, home-erp_user-frappe-bench:long...
+2024-03-21 17:00:14,888 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-21 17:00:14,891 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-21 17:00:14,893 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-21 17:27:16,444 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-21 17:27:16,550 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-21 17:27:16,560 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-21 17:54:44,901 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-21 17:54:45,003 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-21 17:54:45,008 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-21 18:21:45,643 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-21 18:21:45,747 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-21 18:21:45,751 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-21 18:49:14,825 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-21 18:49:14,934 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-21 18:49:14,939 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-22 10:08:53,911 Worker rq:worker:507e023d9f8b47e2bd7943ba5ad39d6e started with PID 568, version 1.15.1
+2024-03-22 10:08:53,913 Subscribing to channel rq:pubsub:507e023d9f8b47e2bd7943ba5ad39d6e
+2024-03-22 10:08:53,915 *** Listening on home-erp_user-frappe-bench:short, home-erp_user-frappe-bench:default, home-erp_user-frappe-bench:long...
+2024-03-22 10:08:53,915 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-22 10:08:53,917 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-22 10:08:53,919 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-22 10:35:54,692 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-22 10:35:54,756 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-22 10:35:54,760 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-22 11:02:55,101 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-22 11:02:55,150 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-22 11:02:55,152 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-22 11:29:55,414 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-22 11:29:55,474 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-22 11:29:55,475 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-22 11:56:55,953 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-22 11:56:56,014 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-22 11:56:56,016 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-22 12:23:56,416 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-22 12:23:56,480 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-22 12:23:56,481 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-22 12:50:56,782 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-22 12:50:56,840 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-22 12:50:56,842 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-22 13:31:40,765 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-22 13:31:41,466 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-22 13:31:41,486 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-22 13:34:53,656 home-erp_user-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Job Apply', 'name': 'c4b620e016'}, method='frappe.model.delete_doc.delete_dynamic_links', site='erp2.com', user='Administrator') (erp2.com::528671a5-7605-4763-b9f7-749c69bd15ad)
+2024-03-22 13:34:56,041 home-erp_user-frappe-bench:default: Job OK (erp2.com::528671a5-7605-4763-b9f7-749c69bd15ad)
+2024-03-22 13:34:56,042 Result is kept for 600 seconds
+2024-03-22 13:48:26,546 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-22 13:48:26,646 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-22 13:48:26,654 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-22 14:15:27,149 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-22 14:15:27,213 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-22 14:15:27,218 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-24 21:28:29,178 Worker rq:worker:eb5af8431eb444ebaf2f66392a6198d2 started with PID 629, version 1.15.1
+2024-03-24 21:28:29,180 Subscribing to channel rq:pubsub:eb5af8431eb444ebaf2f66392a6198d2
+2024-03-24 21:28:29,182 *** Listening on home-erp_user-frappe-bench:short, home-erp_user-frappe-bench:default, home-erp_user-frappe-bench:long...
+2024-03-24 21:28:29,183 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-24 21:28:29,188 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-24 21:28:29,190 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-24 21:52:01,951 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-24 21:52:02,389 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-24 21:52:02,404 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-24 22:11:55,056 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-24 22:11:55,064 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-24 22:11:55,067 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-24 22:38:55,340 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-24 22:38:55,428 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-24 22:38:55,431 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-24 23:05:55,911 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-24 23:05:56,004 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-24 23:05:56,008 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-24 23:32:56,512 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-24 23:32:56,590 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-24 23:32:56,593 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-24 23:59:56,998 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-24 23:59:57,057 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-24 23:59:57,059 Cleaning registries for queue: home-erp_user-frappe-bench:long
+2024-03-26 09:59:43,591 Worker rq:worker:371115a5a5f7422ba3f968487520b64f started with PID 590, version 1.15.1
+2024-03-26 09:59:43,594 Subscribing to channel rq:pubsub:371115a5a5f7422ba3f968487520b64f
+2024-03-26 09:59:43,597 *** Listening on home-erp_user-frappe-bench:short, home-erp_user-frappe-bench:default, home-erp_user-frappe-bench:long...
+2024-03-26 09:59:43,598 Cleaning registries for queue: home-erp_user-frappe-bench:short
+2024-03-26 09:59:43,602 Cleaning registries for queue: home-erp_user-frappe-bench:default
+2024-03-26 09:59:43,605 Cleaning registries for queue: home-erp_user-frappe-bench:long

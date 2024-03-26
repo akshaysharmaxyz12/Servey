@@ -1,0 +1,5 @@
+frappe
+demo_app
+student
+erpnext
+client_script
